@@ -1,0 +1,150 @@
+{
+    "Typogard": {
+        "1-step D-L dist": {
+            " Common Typos": 320,
+            " Omitted Characters": 467,
+            " Repeated Characters": 42,
+            " Swapped Words": 196,
+            " Version Number": 209
+        },
+        "alternate spelling": {
+            " Omitted Characters": 1
+        },
+        "asemantic substitution": {
+            " Omitted Characters": 1
+        },
+        "delimiter modification": {
+            " Common Typos": 240,
+            " Omitted Characters": 220,
+            " Swapped Words": 282
+        },
+        "grammatical substitution": {
+            " Omitted Characters": 166,
+            " Repeated Characters": 3
+        },
+        "homographic replacement": {
+            " Common Typos": 115
+        },
+        "homophonic similarity": {
+            " Common Typos": 74,
+            " Omitted Characters": 109,
+            " Repeated Characters": 39,
+            " Version Number": 152
+        },
+        "prefix/ suffix augmentation": {
+            " Common Typos": 1,
+            " Repeated Characters": 14,
+            " Swapped Words": 3,
+            " Version Number": 78
+        },
+        "scope confusion": {
+            " Common Typos": 5,
+            " Omitted Characters": 2,
+            " Swapped Words": 1
+        },
+        "semantic substitution": {
+            " Common Typos": 1,
+            " Omitted Characters": 3
+        },
+        "sequence reordering": {
+            " Swapped Words": 407
+        },
+        "simplification": {
+            " Omitted Characters": 74
+        }
+    },
+    "OSSGadget": {
+        "1-step D-L dist": {
+            "After Separator": 17,
+            "Ascii Homoglpyh": 1263,
+            "Bit Flips": 115,
+            "Character Removed": 1473,
+            "Close Letters on QWERTY Keyboard": 702,
+            "Double hit character": 180,
+            "Letter Duplicated": 276,
+            "Letter Duplicated and Replaced": 145,
+            "Letters Swapped": 1,
+            "Prefix Added": 24,
+            "Separator Removed": 266,
+            "Suffix Added": 1733,
+            "Swap Vowel": 1155
+        },
+        "alternate spelling": {
+            "Ascii Homoglpyh": 2,
+            "Character Removed": 3,
+            "Close Letters on QWERTY Keyboard": 3,
+            "Letters Swapped": 1,
+            "Swap Vowel": 2
+        },
+        "asemantic substitution": {
+            "After Separator": 2,
+            "Ascii Homoglpyh": 8,
+            "Bit Flips": 4,
+            "Character Removed": 3,
+            "Close Letters on QWERTY Keyboard": 24,
+            "Separator Removed": 2,
+            "Suffix Added": 1
+        },
+        "delimiter modification": {
+            "Character Removed": 573,
+            "Close Letters on QWERTY Keyboard": 7,
+            "Double hit character": 29,
+            "Letter Duplicated and Replaced": 2,
+            "Separator Changed": 211,
+            "Separator Removed": 522
+        },
+        "grammatical substitution": {
+            "Character Removed": 474,
+            "Close Letters on QWERTY Keyboard": 1,
+            "Double hit character": 1,
+            "Letter Duplicated": 20,
+            "Letter Duplicated and Replaced": 15,
+            "Suffix Added": 616
+        },
+        "homographic replacement": {
+            "Ascii Homoglpyh": 1913,
+            "Bit Flips": 162,
+            "Close Letters on QWERTY Keyboard": 566,
+            "Letter Duplicated and Replaced": 17,
+            "Swap Vowel": 654
+        },
+        "homophonic similarity": {
+            "After Separator": 14,
+            "Ascii Homoglpyh": 324,
+            "Character Removed": 477,
+            "Close Letters on QWERTY Keyboard": 309,
+            "Double hit character": 87,
+            "Letter Duplicated": 256,
+            "Letter Duplicated and Replaced": 130,
+            "Prefix Added": 2,
+            "Suffix Added": 773,
+            "Swap Vowel": 961
+        },
+        "prefix/ suffix augmentation": {
+            "Double hit character": 243,
+            "Letter Duplicated": 97,
+            "Letter Duplicated and Replaced": 54,
+            "Prefix Added": 78,
+            "Suffix Added": 1138
+        },
+        "scope confusion": {},
+        "semantic substitution": {
+            "After Separator": 6,
+            "Ascii Homoglpyh": 9,
+            "Bit Flips": 6,
+            "Character Removed": 8,
+            "Close Letters on QWERTY Keyboard": 34,
+            "Double hit character": 6,
+            "Separator Removed": 2,
+            "String Substituted": 7,
+            "Suffix Added": 2,
+            "Swap Vowel": 1
+        },
+        "sequence reordering": {},
+        "simplification": {
+            "Character Removed": 820,
+            "Close Letters on QWERTY Keyboard": 3,
+            "Separator Removed": 2
+        }
+    }
+}

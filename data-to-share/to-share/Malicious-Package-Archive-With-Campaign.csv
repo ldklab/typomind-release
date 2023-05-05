@@ -1,0 +1,1233 @@
+Malicious Package Name,Original Package Name,Ecosystem,Categories,Note/Comment,Detection Date,Campaign description,Maliciousness type,Source
+botaa3,boto3,pip,"(1, 1)",,29/11/2021,gives control to remote server,Backdoor,https://blog.sonatype.com/another-day-of-malware-malicious-botaa3-pypi-package
+matplatlib-plus,matplotlib or mplotlab,pip,"(1, 4)",,21/06/2021,PyPI cryptomining sonatype: It installs cryptomining malware in user's system.,Cryptojacking,https://blog.sonatype.com/sonatype-catches-new-pypi-cryptomining-malware-via-automated-detection
+mllearnlib,mllearn,pip,"(4,)",,21/06/2021,PyPI cryptomining sonatype: It installs cryptomining malware in user's system.,Cryptojacking,https://blog.sonatype.com/sonatype-catches-new-pypi-cryptomining-malware-via-automated-detection
+mplatlib,matplotlib or mplotlab,pip,"(1, 1)",,21/06/2021,PyPI cryptomining sonatype: It installs cryptomining malware in user's system.,Cryptojacking,https://blog.sonatype.com/sonatype-catches-new-pypi-cryptomining-malware-via-automated-detection
+learninglib,learnlib or mllearn,pip,"(10,)",,21/06/2021,PyPI cryptomining sonatype: It installs cryptomining malware in user's system.,Cryptojacking,https://blog.sonatype.com/sonatype-catches-new-pypi-cryptomining-malware-via-automated-detection
+hdeky,hdkey,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-255r-pghp-r5wh
+web3-eht,web3-eth,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-29fh-xcjr-p7rx
+bcion,bcoin,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-2fwq-wx47-hm6x
+baes-x,base-x,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-2jm5-2cqf-6vw9
+nothing-js,nothing.js,npm,"(3,)",,16/05/2018,Attempt to delete all files at npm test,Sabotage,https://github.com/advisories/GHSA-353r-3v84-9pjj
+we3b,web3,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-36r8-9qq7-mh43
+bitcoijns-lib,bitcoinjs-lib,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-37vc-gwvp-6cgv
+electorn,electron,npm,"(1,)",,1/10/20,Public comment on GitHub,Malvertizing,https://github.com/advisories/GHSA-38hx-3542-8fh3
+getcookies,get-cookie,npm,"(3, 10)",,2/5/18,Malicious backdoor,Backdoor,https://github.com/advisories/GHSA-3cjv-4phw-gvvv
+js-sia3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Cryptojacking,https://github.com/advisories/GHSA-3mhm-jvqj-fvhg
+fs-extar,fs-extra,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-435c-qcpm-wjw5
+hw-trnasport-u2f,hw-transport-u2f,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-4363-x42f-xph6
+browserift,browserify,npm,"(1,)",,31/05/2019,Preinstall script with backdoor,Backdoor,https://github.com/advisories/GHSA-43vf-2x6g-p2m5
+tiar,tar,npm,"(1,)",,12/7/19,"remote server, downloads a file and executes it.",Downloader,https://github.com/advisories/GHSA-4hjg-w3ww-38c6
+commqnder,commander,npm,"(1,)",,4/6/19,Crypto currency miner using coin-hive,Cryptojacking,https://github.com/advisories/GHSA-4xgp-xrg3-c73w
+js-3ha3,js-sha3,npm,"(2,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-52c9-458g-whrf
+ks-sha3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-563h-49v8-g7x4
+js-shas,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-5wq6-v5cw-jvfr
+js-sja3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-6343-m2qr-66gf
+jsmsha3,js-sha3,npm,"(3, 1)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-657v-jjf8-83gh
+budfer-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-6584-gfwm-3vc3
+sb58,bs58,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-674r-xx4c-gj7x
+jr-sha3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-67mp-pcv9-vvq6
+js-shc3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-69mf-2cw2-38m8
+bunfer-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-6f93-xj8r-jp82
+cicada-render,@cicada/render,npm,"(11,)",,12/7/19,"remote server, downloads a file and executes it.",Downloader,https://github.com/advisories/GHSA-6m6m-j2hm-pxrg
+hs-sha3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-6mrq-7r7m-hh4p
+cuffer-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-6xm4-p6r2-mwrc
+js-shq3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-766v-7gjx-55hf
+js-wha3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-785g-gx74-gr39
+beffer-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-7cvf-p83w-48q6
+bconi,bcoin,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-7j93-5m2h-rvjx
+bwffer-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-7qg7-6g3g-8vxg
+rceat,react,npm,"(1, 1)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-7w7c-867m-4mqc
+js-cha3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-7xf9-74cp-8hx3
+bitcion-ops,bitcoin-ops,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-85q4-v37c-wfpc
+diamond-clien,diamond-client,npm,"(1,)",,12/7/19,"remote server, downloads a file and executes it.",Code Injection,https://github.com/advisories/GHSA-86gv-xpwv-jprc
+bs-sha3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-88xx-23mf-rcj2
+jw-sha3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-8g3r-968r-c644
+btffer-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-8hrq-9wm7-v3jw
+uglyfi.js,uglify-js,npm,"(3, 13)",,2/10/19,Opens backdoor,Backdoor,https://github.com/advisories/GHSA-8jf2-cq6v-w234
+hdkye,hdkey,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-8pwx-j4r6-5v38
+ripedm160,ripemd160,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-9272-59x2-gwf2
+js-rha3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-95cg-3r4g-7w6j
+babel-loqder,babel-loader,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-9cph-cqqh-36pw
+aasync,async,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://github.com/advisories/GHSA-9mjp-gv34-3jcf
+fuffer-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-c2g6-57fp-22wp
+ecuvre,ecurve,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-cgvm-rvfv-c92r
+singale,signale,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-crfh-jmv2-2f9v
+buffar-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-f64g-whxf-w8f2
+path-to-regxep,path-to-regexp,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-f7gc-6hcj-wc42
+js-she3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-f8jj-45fj-44r6
+bictore-lib,bitcore-lib,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-f8vf-6hwg-hw55
+ecruve,ecurve,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-fpf2-pr3j-4cm3
+hulp,gulp,npm,"(1,)",,3/6/19,Command and control server,Backdoor,https://github.com/advisories/GHSA-fqw7-8v6m-2f86
+js-shi3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-g37j-v5gh-g25c
+jc-sha3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-gfj6-p24g-6hpm
+ripmed160,ripemd160,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-gmjp-776j-2394
+js-sla3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-h6m3-cx24-9626
+wbe3,web3,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-hg7w-2pf7-mxm2
+lodahs,lodash,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-hm6q-r2jc-cpqh
+js-sha7,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-hvgc-mggg-pxr2
+bictoinjs-lib,bitcoinjs-lib,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-hwh3-fhf6-73x9
+ns-sha3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-j67m-jg9p-ppg4
+electron-native-notify,electron-native-notification,npm,"(8,)",,5/6/19,steal Cryptocurrency wallet seeds,Crypto theft,https://github.com/advisories/GHSA-j8qr-rvcv-crhv
+js-sxa3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-jh67-3wqw-cvhr
+bictoind-rpc,bitcoind-rpc,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-jqvv-r4w3-8f7w
+b5ffer-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-jvfv-jhw9-jmpp
+wallet-address-vaildator,wallet-address-validator,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-m6q2-9pfm-2wvr
+signqle,signale,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-m794-qv59-gj7c
+loadyaml,yaml,npm,"(4,)",,1/10/20,Preinstall code for public github comment,,https://github.com/advisories/GHSA-mfc2-93pr-jf92
+4equest,request,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://github.com/advisories/GHSA-p33q-w45h-2hcj
+j3-sha3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-p3jx-g34v-q56j
+bitcionjslib,bitcoinjs-lib,npm,"(3,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-p4mf-4qvh-w8g5
+siganle,signale,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-p5p2-rhc3-wmf3
+bufber-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-p9g3-vpvp-hcj5
+wallet-address-validtaor,wallet-address-validator,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-pc7q-c837-3wjq
+saync,async,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://github.com/advisories/GHSA-pm9v-325f-5g74
+bqffer-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Code Injection,https://github.com/advisories/GHSA-pxqp-mv67-g528
+commmander,commander,npm,"(1,)",,4/6/19,Crypto currency miner using coin-hive,Cryptojacking,https://github.com/advisories/GHSA-q42c-rrp3-r3xm
+bitcionjs,bitcoinjs,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-qmgf-fp85-55gr
+babel-laoder,babel-loader,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-qp6m-jqfr-2f7v
+discord-fix,discord.js,npm,"(9, 3)",,20/01/2021,Fake download counts,Malvertising,https://github.com/advisories/GHSA-qv2g-99x4-45x6
+reuest,request,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://github.com/advisories/GHSA-r863-p739-275c
+bitcoimjs-lib,bitcoinjs-lib,npm,"(2,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-rv6q-p3x7-43fx
+blubird,bluebird,npm,"(1,)",,4/6/19,Crypto currency miner using coin-hive,Cryptojacking,https://github.com/advisories/GHSA-rvww-x6m4-4vc2
+riped160,ripemd160,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-rwcq-qpm6-7867
+bitcoimd-rpc,bitcoind-rpc,npm,"(2,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-rwmv-c7v8-v9vf
+js-qha3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-vf5m-q45w-8mh9
+epress,express,npm,"(1,)",,4/6/19,Crypto currency miner using coin-hive,Cryptojacking,https://github.com/advisories/GHSA-vf8q-pw7h-r2x2
+bubfer-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-vm67-mh96-95mq
+scryptys,scryptsy,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-vrxj-4qhw-5vwq
+scrytsy,scryptsy,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-vv7g-pjw9-4qj9
+babel-loadre,babel-loader,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-vvfh-mvjv-w38q
+hpmm,hpm,npm,"(1,)",,12/7/19,Upload system info,Stealing,https://github.com/advisories/GHSA-vxfp-qmpq-6826
+bufder-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-w9q5-mvc6-5cw3
+rrequest,request,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://github.com/advisories/GHSA-wc7q-qpm4-8pqv
+buvfer-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-wjpj-gmc3-5w56
+jq-sha3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://github.com/advisories/GHSA-x8m7-cv39-xmg9
+bictoin-ops,bitcoin-ops,npm,"(1,)",,27/11/2019,No description,N/A,https://github.com/advisories/GHSA-xrrg-wfwc-c7r3
+codemodel,@autorest/codemodel,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+extension-base,@autorest/extension-base,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+modelerfour,@autorest/modelerfour,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+testmodeler,@autorest/testmodeler,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+agrifood-farming,@azure-rest/agrifood-farming,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+ai-document-translator,@azure-rest/ai-document-translator,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+confidential-ledger,@azure-rest/confidential-ledger,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+iot-device-update-1,@azure-rest/iot-device-update,npm,"(11,4)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+purview-administration,@azure-rest/purview-administration,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+purview-catalog,@azure-rest/purview-catalog,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+purview-scanning,@azure-rest/purview-scanning,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+cadl-autorest,@azure-tools/cadl-autorest,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+cadl-azure-core,@azure-tools/cadl-azure-core,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+cadl-azure-resource-manager,@azure-tools/cadl-azure-resource-manager,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+cadl-providerhub,@azure-tools/cadl-providerhub,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+cadl-providerhub-controller,@azure-tools/cadl-providerhub-controller,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+communication-short-codes,@azure-tools/communication-short-codes,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+deduplication,@azure-tools/deduplication,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+oai2-to-oai3,@azure-tools/oai2-to-oai3,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+ai-anomaly-detector,@azure/ai-anomaly-detector,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-advisor,@azure/arm-advisor,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-analysisservices,@azure/arm-analysisservices,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-apimanagement,@azure/arm-apimanagement,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-appconfiguration,@azure/arm-appconfiguration,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-appinsights,@azure/arm-appinsights,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-appplatform,@azure/arm-appplatform,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-appservice,@azure/arm-appservice,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-attestation,@azure/arm-attestation,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-authorization,@azure/arm-authorization,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-avs,@azure/arm-avs,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-azurestack,@azure/arm-azurestack,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-azurestackhci,@azure/arm-azurestackhci,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-batch,@azure/arm-batch,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-billing,@azure/arm-billing,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-botservice,@azure/arm-botservice,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-cdn,@azure/arm-cdn,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-changeanalysis,@azure/arm-changeanalysis,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-cognitiveservices,@azure/arm-cognitiveservices,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-commerce,@azure/arm-commerce,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-commitmentplans,@azure/arm-commitmentplans,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-communication,@azure/arm-communication,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-compute,@azure/arm-compute,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-confluent,@azure/arm-confluent,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-consumption,@azure/arm-consumption,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-containerinstance,@azure/arm-containerinstance,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-containerregistry,@azure/arm-containerregistry,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-containerservice,@azure/arm-containerservice,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-cosmosdb,@azure/arm-cosmosdb,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-customerinsights,@azure/arm-customerinsights,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-databox,@azure/arm-databox,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-databoxedge,@azure/arm-databoxedge,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-databricks,@azure/arm-databricks,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-datacatalog,@azure/arm-datacatalog,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-datadog,@azure/arm-datadog,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-datafactory,@azure/arm-datafactory,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-datalake-analytics,@azure/arm-datalake-analytics,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-datamigration,@azure/arm-datamigration,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-deploymentmanager,@azure/arm-deploymentmanager,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-desktopvirtualization,@azure/arm-desktopvirtualization,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-deviceprovisioningservices,@azure/arm-deviceprovisioningservices,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-devspaces,@azure/arm-devspaces,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-devtestlabs,@azure/arm-devtestlabs,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-digitaltwins,@azure/arm-digitaltwins,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-dns,@azure/arm-dns,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-dnsresolver,@azure/arm-dnsresolver,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-domainservices,@azure/arm-domainservices,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-eventgrid,@azure/arm-eventgrid,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-eventhub,@azure/arm-eventhub,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-extendedlocation,@azure/arm-extendedlocation,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-features,@azure/arm-features,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-frontdoor,@azure/arm-frontdoor,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+Arm-hanaonazure,@azure/arm-hanaonazure,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-hdinsight,@azure/arm-hdinsight,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-healthbot,@azure/arm-healthbot,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-healthcareapis,@azure/arm-healthcareapis,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-hybridcompute,@azure/arm-hybridcompute,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-hybridkubernetes,@azure/arm-hybridkubernetes,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-imagebuilder,@azure/arm-imagebuilder,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-iotcentral,@azure/arm-iotcentral,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-iothub,@azure/arm-iothub,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-keyvault,@azure/arm-keyvault,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-kubernetesconfiguration,@azure/arm-kubernetesconfiguration,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-labservices,@azure/arm-labservices,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-links,@azure/arm-links,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-loadtestservice,@azure/arm-loadtestservice,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-locks,@azure/arm-locks,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-logic,@azure/arm-logic,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-machinelearningcompute,@azure/arm-machinelearningcompute,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-machinelearningexperimentation,@azure/arm-machinelearningexperimentation,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-machinelearningservices,@azure/arm-machinelearningservices,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-managedapplications,@azure/arm-managedapplications,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-managementgroups,@azure/arm-managementgroups,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-managementpartner,@azure/arm-managementpartner,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-maps,@azure/arm-maps,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-mariadb,@azure/arm-mariadb,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-marketplaceordering,@azure/arm-marketplaceordering,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-mediaservices,@azure/arm-mediaservices,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-migrate,@azure/arm-migrate,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-mixedreality,@azure/arm-mixedreality,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-mobilenetwork,@azure/arm-mobilenetwork,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-monitor,@azure/arm-monitor,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-msi,@azure/arm-msi,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-mysql,@azure/arm-mysql,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-netapp,@azure/arm-netapp,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-network,@azure/arm-network,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-notificationhubs,@azure/arm-notificationhubs,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-oep,@azure/arm-oep,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-operationalinsights,@azure/arm-operationalinsights,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-operations,@azure/arm-operations,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-orbital,@azure/arm-orbital,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-peering,@azure/arm-peering,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-policy,@azure/arm-policy,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-portal,@azure/arm-portal,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-postgresql,@azure/arm-postgresql,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-postgresql-flexible,@azure/arm-postgresql-flexible,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-powerbidedicated,@azure/arm-powerbidedicated,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-powerbiembedded,@azure/arm-powerbiembedded,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-privatedns,@azure/arm-privatedns,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-purview,@azure/arm-purview,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-quota,@azure/arm-quota,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-recoveryservices,@azure/arm-recoveryservices,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-recoveryservices-siterecovery,@azure/arm-recoveryservices-siterecovery,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-recoveryservicesbackup,@azure/arm-recoveryservicesbackup,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-rediscache,@azure/arm-rediscache,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-redisenterprisecache,@azure/arm-redisenterprisecache,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-relay,@azure/arm-relay,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-reservations,@azure/arm-reservations,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-resourcegraph,@azure/arm-resourcegraph,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-resourcehealth,@azure/arm-resourcehealth,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-resourcemover,@azure/arm-resourcemover,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-resources,@azure/arm-resources,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-resources-subscriptions,@azure/arm-resources-subscriptions,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-search,@azure/arm-search,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-security,@azure/arm-security,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-serialconsole,@azure/arm-serialconsole,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-servicebus,@azure/arm-servicebus,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-servicefabric,@azure/arm-servicefabric,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-servicefabricmesh,@azure/arm-servicefabricmesh,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-servicemap,@azure/arm-servicemap,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-signalr,@azure/arm-signalr,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-sql,@azure/arm-sql,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-sqlvirtualmachine,@azure/arm-sqlvirtualmachine,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-storage,@azure/arm-storage,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-storagecache,@azure/arm-storagecache,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-storageimportexport,@azure/arm-storageimportexport,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-storagesync,@azure/arm-storagesync,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-storsimple1200series,@azure/arm-storsimple1200series,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-storsimple8000series,@azure/arm-storsimple8000series,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-streamanalytics,@azure/arm-streamanalytics,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-subscriptions,@azure/arm-subscriptions,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-support,@azure/arm-support,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-synapse,@azure/arm-synapse,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-templatespecs,@azure/arm-templatespecs,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-timeseriesinsights,@azure/arm-timeseriesinsights,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-trafficmanager,@azure/arm-trafficmanager,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-videoanalyzer,@azure/arm-visualstudio,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-visualstudio,@azure/arm-vmwarecloudsimple,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-vmwarecloudsimple,@azure/arm-webpubsub,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-webpubsub,@azure/arm-webservices,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-webservices,@azure/arm-workspaces,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+arm-workspaces,@azure/arm-workspaces,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+communication-chat,@azure/communication-chat,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+communication-common,@azure/communication-common,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+communication-identity,@azure/communication-identity,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+communication-network-traversal,@azure/communication-network-traversal,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+communication-phone-numbers,@azure/communication-phone-numbers,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+communication-sms,@azure/communication-sms,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+core-amqp,@azure/core-amqp,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+core-asynciterator-polyfill,@azure/core-asynciterator-polyfill,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+core-auth,@azure/core-auth,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+core-client-1,@azure/core-client,npm,"(11,4)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+core-http,@azure/core-http,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+core-http-compat,@azure/core-http-compat,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+core-lro,@azure/core-lro,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+core-paging,@azure/core-paging,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+core-rest-pipeline,@azure/core-rest-pipeline,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+core-tracing,@azure/core-tracing,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+core-xml,@azure/core-xml,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+digital-twins-core,@azure/digital-twins-core,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+dtdl-parser,@azure/dtdl-parser,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+eslint-plugin-azure-sdk,@azure/eslint-plugin-azure-sdk,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+eventhubs-checkpointstore-blob,@azure/eventhubs-checkpointstore-blob,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+eventhubs-checkpointstore-table,@azure/eventhubs-checkpointstore-table,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+identity-cache-persistence,@azure/identity-cache-persistence,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+identity-vscode,@azure/identity-vscode,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+iot-device-update,@azure/iot-device-update,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+iot-modelsrepository,@azure/iot-modelsrepository,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+keyvault-admin,@azure/keyvault-admin,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+mixed-reality-authentication,@azure/mixed-reality-authentication,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+mixed-reality-remote-rendering,@azure/mixed-reality-remote-rendering,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+monitor-opentelemetry-exporter,@azure/monitor-opentelemetry-exporter,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+opentelemetry-instrumentation-azure-sdk,@azure/opentelemetry-exporter-azure-monitor,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+quantum-jobs,@azure/quantum-jobs,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+storage-blob-changefeed,@azure/storage-blob-changefeed,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+storage-file-datalake,@azure/storage-file-datalake,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+storage-queue,@azure/storage-queue,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+synapse-access-control,@azure/synapse-access-control,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+synapse-artifacts,@azure/synapse-artifacts,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+synapse-managed-private-endpoints,@azure/synapse-managed-private-endpoints,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+synapse-monitoring,@azure/synapse-monitoring,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+synapse-spark,@azure/synapse-spark,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+video-analyzer-edge,@azure/video-analyzer-edge,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+web-pubsub,@azure/web-pubsub,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+web-pubsub-express,@azure/web-pubsub-express,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+eslint-config-cadl,@cadl-lang/eslint-config-cadl,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+openapi3,@cadl-lang/openapi3,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+prettier-plugin-cadl,@cadl-lang/prettier-plugin-cadl,npm,"(11,)",,21/03/2022,Azure scope confusion,Stealing,https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+node-opencv,opencv,npm,"(4,)",,19/07/2017,hacktask typosquatting attacks,Stealing,https://snyk.io/blog/typosquatting-attacks/
+node-opensl,openssl,npm,"(4, 1)",,19/07/2017,hacktask typosquatting attacks,Stealing,https://snyk.io/blog/typosquatting-attacks/
+node-openssl,openssl,npm,"(4,)",,19/07/2017,hacktask typosquatting attacks,Stealing,https://snyk.io/blog/typosquatting-attacks/
+node-sqlite,sqlite,npm,"(4,)",,19/07/2017,hacktask typosquatting attacks,Stealing,https://snyk.io/blog/typosquatting-attacks/
+node-tkinter,tkinter,npm,"(4,)",,19/07/2017,hacktask typosquatting attacks,Stealing,https://snyk.io/blog/typosquatting-attacks/
+cross-env.js,cross-env,npm,"(4,)",,19/07/2017,hacktask typosquatting attacks,Stealing,https://snyk.io/vuln/npm:cross-env.js:20170802
+crossenv,cross-env,npm,"(3,)",,19/07/2017,hacktask typosquatting attacks,Stealing,https://snyk.io/vuln/npm:crossenv:20170802
+d3.js,d3,npm,"(4,)",,19/07/2017,hacktask typosquatting attacks,Stealing,https://snyk.io/vuln/npm:d3.js:20170802
+discordi.js,discord.js,npm,"(1,)",,19/10/2017,N/A,N/A,https://snyk.io/vuln/npm:discordi.js:20171009
+fabric-js,fabric,npm,"(4,)",,19/07/2017,hacktask typosquatting attacks,Stealing,https://snyk.io/vuln/npm:fabric-js:20170802
+ffmepg,ffmpeg,npm,"(1,)",,19/07/2017,hacktask typosquatting attacks,Stealing,https://snyk.io/vuln/npm:ffmepg:20170802
+gruntcli,grunt-cli,npm,"(3,)",,19/07/2017,hacktask typosquatting attacks,Stealing,https://snyk.io/vuln/npm:gruntcli:20170802
+http-proxy.js,http-proxy,npm,"(4,)",,19/07/2017,hacktask typosquatting attacks,Stealing,https://snyk.io/vuln/npm:http-proxy.js:20170802
+jquery.js,jquery,npm,"(4,)",,19/07/2017,hacktask typosquatting attacks,Stealing,https://snyk.io/vuln/npm:jquery.js:20170802
+mariadb,mariadb,npm,"(12,)",,19/07/2017,hacktask typosquatting attacks,Stealing,https://snyk.io/vuln/npm:mariadb:20170802
+mongose,mongoose,npm,"(1,)",,19/07/2017,hacktask typosquatting attacks,Stealing,https://snyk.io/vuln/npm:mongose:20170802
+mssql-node,mysql,npm,"(4, 1)",,19/07/2017,hacktask typosquatting attacks,Stealing,https://snyk.io/vuln/npm:mssql-node:20170802
+mssql.js,mysql,npm,"(4, 1)",,19/07/2017,hacktask typosquatting attacks,Stealing,https://snyk.io/vuln/npm:mssql.js:20170802
+mysqljs,mysql,npm,"(4,)",,19/07/2017,hacktask typosquatting attacks,Stealing,https://snyk.io/vuln/npm:mysqljs:20170802
+node-fabric,fabric,npm,"(4,)",,19/07/2017,hacktask typosquatting attacks,Stealing,https://snyk.io/vuln/npm:node-fabric:20170802
+asinc,async,npm,"(13,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-ASINC-174690
+asnc,async,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-ASNC-174685
+asnyc,async,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-ASNYC-174683
+asycn,async,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-ASYCN-174684
+asymc,async,npm,"(2,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-ASYMC-174689
+asynnc,async,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-ASYNNC-174688
+asyync,async,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-ASYYNC-174687
+axios-http,axios,npm,"(4,)",,30/08/2019,Uploads system info to remote server,Stealing,https://snyk.io/vuln/SNYK-JS-AXIOSHTTP-460539
+axioss,axios,npm,"(1,)",,30/08/2019,Uploads system info to remote server,Stealing,https://snyk.io/vuln/SNYK-JS-AXIOSS-460538
+axois,axios,npm,"(1,)",,9/8/18,Command and Control,Backdoor,https://snyk.io/vuln/SNYK-JS-AXOIS-450958
+aysnc,async,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-AYSNC-174682
+bitcoin-osp,bitcoin-ops,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-BITCOINOSP-536178
+bitcoisnj-lib,bitcoinjs-lib,npm,"(1, 1)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-BITCOISNJLIB-536176
+bitconid-rpc,bitcoind-rpc,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-BITCONIDRPC-536174
+bitconijs-lib,bitcoinjs-lib,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-BITCONIJSLIB-536173
+bitconi-ops,bitcoin-ops,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-BITCONIOPS-536175
+bitcroe-lib,bitcore-lib,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-BITCROELIB-536172
+body-parse-xml,body-parser-xml,npm,"(10,)",,30/08/2019,Uploads system info to remote server,Stealing,https://snyk.io/vuln/SNYK-JS-BODYPARSEXML-460537
+bowe,bower,npm,"(1,)",,30/05/2019,Preinstall for download and execution of file for backdoor,Backdoor,https://snyk.io/vuln/SNYK-JS-BOWE-174868
+bowee,bower,npm,"(1,)",,30/05/2019,Preinstall for download and execution of file for backdoor,Backdoor,https://snyk.io/vuln/SNYK-JS-BOWEE-174833
+bs58chcek,bs58check,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-BS58CHCEK-536168
+bs58chek,bs58check,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-BS58CHEK-536167
+bs58chekc,bs58check,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-BS58CHEKC-536166
+bs85,bs58,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-BS85-536165
+bs85check,bs58check,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-BS85CHECK-536164
+bsae-x,base-x,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-BSAEX-536163
+buffdr-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFDRXOR-474552
+buffe2-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFE2XOR-474551
+buffeb-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFEBXOR-474550
+buffep-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFEPXOR-474549
+buffer-8or,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFER8OR-474548
+buffer-hor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFERHOR-474547
+buffermxor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFERMXOR-474533
+buffer-por,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFERPOR-474546
+buffer-xgr,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFERXGR-474545
+buffer-xkr,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFERXKR-474544
+buffer-xmr,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFERXMR-474543
+buffer-xnr,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFERXNR-474542
+buffer-xo2,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFERXO2-474541
+buffer-xob,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFERXOB-474540
+buffer-xop,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFERXOP-474539
+buffer-xos,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFERXOS-474538
+buffer-xov,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFERXOV-474537
+buffer-xoz,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFERXOZ-474536
+buffer-yor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFERYOR-474535
+buffer-zor,buffer-xor,npm,"(13,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFERZOR-474534
+buffes-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFESXOR-474532
+buffev-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFEVXOR-474531
+buffez-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFEZXOR-474530
+buffgr-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFGRXOR-474529
+buffmr-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFMRXOR-474528
+buffur-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFFURXOR-474527
+bufger-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFGERXOR-474526
+bufner-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFNERXOR-474525
+bufver-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUFVERXOR-474524
+bugfer-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-BUGFERXOR-474523
+calk,chalk,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-CALK-174674
+chak,chalk,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-CHAK-174676
+cionstring,coinstring,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-CIONSTRING-536162
+coinpayment,coinpayments,npm,"(10,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-COINPAYMENT-536161
+coinstirng,coinstring,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-COINSTIRNG-536160
+coinstrig,coinstring,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-COINSTRIG-536159
+coinstrng,coinstring,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-COINSTRNG-536158
+colour-string,color-string,npm,"(5,)",,31/05/2019,Preinstall for download and execution of file for backdoor,Backdoor,https://snyk.io/vuln/SNYK-JS-COLOURSTRING-174850
+colro-name,color-name,npm,"(1,)",,31/05/2019,Preinstall for download and execution of file for backdoor,Backdoor,https://snyk.io/vuln/SNYK-JS-COLRONAME-449541
+comander,commander,npm,"(1,)",,2/10/19,Opens backdoor,Backdoor,https://snyk.io/vuln/SNYK-JS-COMANDER-471676
+commander-js,commander,npm,"(4,)",,9/1/19,Backdoor in postinstall,Backdoor,https://snyk.io/vuln/SNYK-JS-COMMANDERJS-73506
+commandre,commander,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-COMMANDRE-536156
+commanedr,coinstring,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-COMMANEDR-536155
+commnader,commander,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-COMMNADER-174680
+conistring,coinstring,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-CONISTRING-536154
+crpyto-js,crypto-js,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-CRPYTOJS-536153
+crytpo-js,crypto-js,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-CRYTPOJS-536152
+cxt,ccxt,npm,"(6,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-CXT-536151
+db-json.js,json,npm,"(4,)",,10/11/20,postinstall with trojan,Virus,https://snyk.io/vuln/SNYK-JS-DBJSONJS-1047461
+degbu,debug,npm,"(1, 1)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-DEGBU-536150
+dhkey,hdkey,npm,"(1,)",,27/11/2019,No description,N/A,https://snyk.io/vuln/SNYK-JS-DHKEY-536149
+discord.app,discord.js,npm,"(9,)",,10/11/20,postinstall with trojan,Virus,https://snyk.io/vuln/SNYK-JS-DISCORDAPP-1038826
+discord.dll,discord.js,npm,"(9,)",,9/11/20,Postinstall that exfiltrates local files,Stealing,https://snyk.io/vuln/SNYK-JS-DISCORDDLL-1038397
+eact,react,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-EACT-174677
+ember_cli_babe,ember-cli-babel,npm,"(3, 1)",,2/10/19,Opens backdoor,Backdoor,https://snyk.io/vuln/SNYK-JS-EMBERCLIBABE-471668
+equest,request,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-EQUEST-174667
+erquest,request,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-ERQUEST-174646
+experss,express,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-EXPERSS-174678
+exprss,express,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-EXPRSS-174679
+foever,forever,npm,"(1,)",,31/05/2019,Preinstall script with backdoor,Backdoor,https://snyk.io/vuln/SNYK-JS-FOEVER-174891
+froever,forever,npm,"(1,)",,31/05/2019,Preinstall script with backdoor,Backdoor,https://snyk.io/vuln/SNYK-JS-FROEVER-174890
+import-mysql,mysql-import,npm,"(7,)",,30/08/2019,Uploads system info to remote server,Stealing,https://snyk.io/vuln/SNYK-JS-IMPORTMYSQL-460535
+jqeury,jquery,npm,"(1,)",,31/05/2019,Preinstall script with backdoor,Backdoor,https://snyk.io/vuln/SNYK-JS-JQEURY-174888
+jquerz,jquery,npm,"(1,)",,31/05/2019,Preinstall script with backdoor,Backdoor,https://snyk.io/vuln/SNYK-JS-JQUERZ-174887
+juffer-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-JUFFERXOR-474517
+k0a_multer,koa-multer,npm,"(2, 3)",,30/08/2019,Uploads system info to remote server,Stealing,https://snyk.io/vuln/SNYK-JS-K0AMULTER-460532
+koa-body-parse,koa-bodyparser,npm,"(3, 10)",,30/08/2019,Uploads system info to remote server,Stealing,https://snyk.io/vuln/SNYK-JS-KOABODYPARSE-460531
+logsymbles,log-symbols,npm,"(3, 1, 1)",,31/05/2019,Preinstall script with backdoor,Backdoor,https://snyk.io/vuln/SNYK-JS-LOGSYMBLES-174886
+log-symboles,log-symbols,npm,"(1,)",,2/10/19,Opens backdoor,Backdoor,https://snyk.io/vuln/SNYK-JS-LOGSYMBOLES-471671
+mogobd,mongodb,npm,"(1, 1)",,30/08/2019,Uploads system info to remote server,Stealing,https://snyk.io/vuln/SNYK-JS-MOGOBD-460530
+mogodb,mongodb,npm,"(1,)",,30/08/2019,Uploads system info to remote server,Stealing,https://snyk.io/vuln/SNYK-JS-MOGODB-460529
+mogodb-core,mongodb-core,npm,"(1,)",,30/08/2019,Uploads system info to remote server,Stealing,https://snyk.io/vuln/SNYK-JS-MOGODBCORE-460528
+mogoose,mongoose,npm,"(1,)",,30/08/2019,Uploads system info to remote server,Stealing,https://snyk.io/vuln/SNYK-JS-MOGOOSE-460527
+momen,moment,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-MOMEN-174681
+mysql-koa,koa-mysql,npm,"(7,)",,30/08/2019,Uploads system info to remote server,Stealing,https://snyk.io/vuln/SNYK-JS-MYSQLKOA-460526
+next-util,next-utils,npm,"(10,)",,12/7/19,"Uploads system info to remote server, download and executeit",Stealing,https://snyk.io/vuln/SNYK-JS-NEXTUTIL-451579
+plutov-slack-client,slack,npm,"(12,)",,15/10/2020,Open shell to remote server on install,Backdoor,https://snyk.io/vuln/SNYK-JS-PLUTOVSLACKCLIENT-1018836
+reequest,request,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-REEQUEST-174659
+regenraotr,regenerator,npm,"(1, 1)",,24/06/2018,Command and Control server,Backdoor,https://snyk.io/vuln/SNYK-JS-REGENRAOTR-450957
+regenrator,regenerator,npm,"(1,)",,24/06/2018,Command and Control server,Backdoor,https://snyk.io/vuln/SNYK-JS-REGENRATOR-450956
+reqest,request,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-REQEST-174831
+reqquest,request,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-REQQUEST-174661
+requeest,request,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-REQUEEST-174671
+reques,request,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-REQUES-174665
+requesst,request,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-REQUESST-174672
+requestt,request,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-REQUESTT-174673
+requet,request,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-REQUET-174663
+requets,request,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-REQUETS-174668
+require-port,requires-port,npm,"(10,)",,2/10/19,"When installed, the package downloads a file from a remote server, executes it and opens a backdoor.",Backdoor,https://snyk.io/vuln/SNYK-JS-REQUIREPORT-471682
+require-ports,requires-port,npm,"(10,)",,31/05/2019,Preinstall script with backdoor,Backdoor,https://snyk.io/vuln/SNYK-JS-REQUIREPORTS-174893
+requset,request,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-REQUSET-174669
+requst,request,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-REQUST-174664
+requuest,request,npm,"(1,)",,6/5/19,Upload info to remote server info about sudo,Stealing,https://snyk.io/vuln/SNYK-JS-REQUUEST-174660
+ruffer-xor,buffer-xor,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-RUFFERXOR-474516
+serializes,serialize,npm,"(10,)",,30/08/2019,Uploads system info to remote server,Stealing,https://snyk.io/vuln/SNYK-JS-SERIALIZES-460523
+serilize,serialize,npm,"(1,)",,30/08/2019,Uploads system info to remote server,Stealing,https://snyk.io/vuln/SNYK-JS-SERILIZE-460522
+soket.io,socket.io,npm,"(1,)",,24/06/2018,Command and Control server,Backdoor,https://snyk.io/vuln/SNYK-JS-SOKETIO-450954
+soket.js,socket.js,npm,"(1,)",,24/06/2018,Command and Control server,Backdoor,https://snyk.io/vuln/SNYK-JS-SOKETJS-450934
+sparkies,sparkles,npm,"(2,)",,30/08/2019,Uploads system info to remote server,Stealing,https://snyk.io/vuln/SNYK-JS-SPARKIES-460521
+twilio-npm,twilio,npm,"(4,)",,2/11/20,Reverse shell postinstall,Backdoor,https://snyk.io/vuln/SNYK-JS-TWILIONPM-1035374
+uglyfi-js,uglify-js,npm,"(13,)",,31/05/2019,Preinstall script with backdoor,Backdoor,https://snyk.io/vuln/SNYK-JS-UGLYFIJS-174897
+yeoman-genrator,yeoman-generator,npm,"(1,)",,31/05/2019,Preinstall script with backdoor,Backdoor,https://snyk.io/vuln/SNYK-JS-YEOMANGENRATOR-174895
+zs-sha3,js-sha3,npm,"(1,)",,25/10/2019,Ethereum mining ,Crypto theft,https://snyk.io/vuln/SNYK-JS-ZSSHA3-474417
+acqusition,acquisition,pip,"(1,)",,15/09/2017,Chinese IP address upload,Stealing,https://snyk.io/vuln/SNYK-PYTHON-ACQUSITION-40662
+apidev-coop,apidev-coop_cms,pip,"(6,)",,15/09/2017,Chinese IP address upload,Stealing,https://snyk.io/vuln/SNYK-PYTHON-APIDEVCOOP-40663
+bzip,bz2file,pip,"(8,)",,15/09/2017,Chinese IP address upload,Stealing,https://snyk.io/vuln/SNYK-PYTHON-BZIP-40664
+colourama,colorama,pip,"(5,)",,21/10/2023,"ZDnet, bitcoin",Crypto theft,https://snyk.io/vuln/SNYK-PYTHON-COLOURAMA-72537
+crypt,crypto,pip,"(1,)",,15/09/2017,Chinese IP address upload,Stealing,https://snyk.io/vuln/SNYK-PYTHON-CRYPT-40665
+djanga,django,pip,"(1,)",,13/10/2018,.bashrc file when installed on a linux system.,Code Injection,https://snyk.io/vuln/SNYK-PYTHON-DJANGA-72533
+django-server,django-server-guardian-api,pip,"(6,)",,15/09/2017,Chinese IP address upload,Stealing,https://snyk.io/vuln/SNYK-PYTHON-DJANGOSERVER-40666
+easyinstall,easy_install,pip,"(3,)",,11/10/23,Gain persinstence through modifying the .bashrc script (ZDnet),Code Injection,https://snyk.io/vuln/SNYK-PYTHON-EASYINSTALL-72534
+genesisbot,genesis,pip,"(4,)",,30/07/2021,Discord tokens and credit card details,Stealing,https://snyk.io/vuln/SNYK-PYTHON-GENESISBOT-1535118
+jeilyfish,jellyfish,pip,"(2,)",,4/12/19,steals SSH and GPG keys,Stealing,https://snyk.io/vuln/SNYK-PYTHON-JEILYFISH-536726
+libpesh,libpeshka,pip,"(1, 1)",,17/07/2019,.drv file to persist in .bashrc,Code Injection,https://snyk.io/vuln/SNYK-PYTHON-LIBPESH-460156
+libpeshnx,libpeshka,pip,"(1, 1)",libpeshka itself is a malware package,13/10/2018,.bashrc file when installed on a linux system.,Code Injection,https://snyk.io/vuln/SNYK-PYTHON-LIBPESHKA-72535
+pwd,pwdhash,pip,"(6,)",,15/09/2017,Chinese IP address upload,Stealing,https://snyk.io/vuln/SNYK-PYTHON-PWD-40667
+python3-dateutil,dateutil,pip,"(4,)",,4/12/19,steals SSH and GPG keys,Stealing,https://snyk.io/vuln/SNYK-PYTHON-PYTHON3DATEUTIL-536644
+setup-tools,setuptools,pip,"(3,)",,15/09/2017,Chinese IP address upload,Stealing,https://snyk.io/vuln/SNYK-PYTHON-SETUPTOOLS-40668
+smplejson,simplejson,pip,"(1,)",,13/10/2023,Research / Data leakage,Proof-of-concept,https://snyk.io/vuln/SNYK-PYTHON-SMPLEJSON-72526
+timeit,timeit,pip,"(12,)",timeit is an inbuilt module of python,13/10/2023,Research / Data leakage,Proof-of-concept,https://snyk.io/vuln/SNYK-PYTHON-TIMEIT-72528
+telnet,telnetsrvlib,pip,"(6,)",,15/09/2017,Chinese IP address upload,Stealing,https://snyk.io/vuln/SNYK-PYTHON-URLIB3-40670
+urlib3,urllib3,pip,"(1,)",,15/09/2017,Chinese IP address upload,Stealing,https://snyk.io/vuln/SNYK-PYTHON-URLIB3-40670
+urllib,urllib3,pip,"(6,)",,15/09/2017,Chinese IP address upload,Stealing,https://snyk.io/vuln/SNYK-PYTHON-URLIB3-40670
+active-support,activesupport,npm,"(3,)",,9/8/18,Duplicate original and bse64encode,Code Injection,https://snyk.io/vuln/SNYK-RUBY-ACTIVESUPPORT-22046
+active-support,activesupport,RubyGems,"(3,)",,9/8/18,Duplicate original and bse64encode,Code Injection,https://snyk.io/vuln/SNYK-RUBY-ACTIVESUPPORT-22046
+applogger_ruby,,RubyGems,"(12,)",,16/04/2020,Malicious 3rd party script,Code Injection,https://snyk.io/vuln/SNYK-RUBY-APPLOGGERRUBY-566804
+DiscordSafety,,pip,"(12,)",,19/11/2021,"Discord tokens, the record",Stealing,https://therecord.media/malicious-python-packages-caught-stealing-discord-tokens-installing-shells/
+yandex-yt,yandex,pip,"(4,)",,19/11/2021,"Discord tokens, the record",Stealing,https://therecord.media/malicious-python-packages-caught-stealing-discord-tokens-installing-shells/
+mitmproxy-iframe,mitmproxy,pip,"(4,)",,12/10/21,"Bleeping computer, mitproxy",Code Injection,https://www.bleepingcomputer.com/news/security/pypi-removes-mitmproxy2-over-code-execution-concerns/
+mitmproxy2,mitmproxy,pip,"(4,)",,12/10/21,"Bleeping computer, mitproxy",Code Injection,https://www.bleepingcomputer.com/news/security/pypi-removes-mitmproxy2-over-code-execution-concerns/
+http-proxy-middelware,http-proxy-middleware,npm,"(1,)",,3/2/21,download code in index.js,Code Injection,https://www.npmjs.com/package/http-proxy-middelware
+jquerry,jquery,npm,"(1,)",,3/2/21,download code in index.js,Code Injection,https://www.npmjs.com/package/jquerry
+nagibabel,Babel-cli,npm,"(6, 4)",,14/09/2020,rm -rf on current directory,Sabotage,https://www.npmjs.com/package/nagibabel
+pythonkafka,kafka-python,pip,"(7, 3)",,31/10/2018,Could not find description,N/A,https://www.researchgate.net/publication/343022080_Typosquatting_and_Combosquatting_Attacks_on_the_Python_Ecosystem
+smb,pysmb,pip,"(6,)",,30/10/2018,Could not find description,N/A,https://www.researchgate.net/publication/343022080_Typosquatting_and_Combosquatting_Attacks_on_the_Python_Ecosystem
+python-mysqldb,MySQL-python,pip,"(7, 4)",,2/5/18,Could not find description,N/A,https://www.researchgate.net/publication/343022080_Typosquatting_and_Combosquatting_Attacks_on_the_Python_Ecosystem
+python-ftp,pyftpdlib,pip,"(8, 6, 3)",,30/10/2018,Could not find description,N/A,https://www.researchgate.net/publication/343022080_Typosquatting_and_Combosquatting_Attacks_on_the_Python_Ecosystem
+python-sqlite,pysqlite,pip,"(8, 3)",,29/10/2018,Could not find description,N/A,https://www.researchgate.net/publication/343022080_Typosquatting_and_Combosquatting_Attacks_on_the_Python_Ecosystem
+pytz3-dev,pytz,pip,"(4,)",,17/09/2018,Could not find description,N/A,https://www.researchgate.net/publication/343022080_Typosquatting_and_Combosquatting_Attacks_on_the_Python_Ecosystem
+python-openssl,openssl-python,pip,"(7,)",,10/5/18,Could not find description,N/A,https://www.researchgate.net/publication/343022080_Typosquatting_and_Combosquatting_Attacks_on_the_Python_Ecosystem
+python-mongo,pymongodb,pip,"(8, 3, 6)",,10/5/18,Could not find description,N/A,https://www.researchgate.net/publication/343022080_Typosquatting_and_Combosquatting_Attacks_on_the_Python_Ecosystem
+nmap-python,python-nmap,pip,"(7,)",,10/5/18,Could not find description,N/A,https://www.researchgate.net/publication/343022080_Typosquatting_and_Combosquatting_Attacks_on_the_Python_Ecosystem
+PyYMAL,pyyaml,pip,"(1,)",,3/5/18,Could not find description,N/A,https://www.researchgate.net/publication/343022080_Typosquatting_and_Combosquatting_Attacks_on_the_Python_Ecosystem
+pysprak,pyspark,pip,"(1,)",,3/5/18,Could not find description,N/A,https://www.researchgate.net/publication/343022080_Typosquatting_and_Combosquatting_Attacks_on_the_Python_Ecosystem
+libhtml5,html5lib,pip,"(7,)",,3/5/18,Could not find description,N/A,https://www.researchgate.net/publication/343022080_Typosquatting_and_Combosquatting_Attacks_on_the_Python_Ecosystem
+libcurl,pycurl,pip,"(9,)",,3/5/18,Could not find description,N/A,https://www.researchgate.net/publication/343022080_Typosquatting_and_Combosquatting_Attacks_on_the_Python_Ecosystem
+python-mysql,MySQL-python,pip,"(7,)",,2/5/18,Could not find description,N/A,https://www.researchgate.net/publication/343022080_Typosquatting_and_Combosquatting_Attacks_on_the_Python_Ecosystem
+numipy,numpy,pip,"(1,)",,2/5/18,Could not find description,N/A,https://www.researchgate.net/publication/343022080_Typosquatting_and_Combosquatting_Attacks_on_the_Python_Ecosystem
+mateplotlib,matplotlib,pip,"(1,)",,2/5/18,Could not find description,N/A,https://www.researchgate.net/publication/343022080_Typosquatting_and_Combosquatting_Attacks_on_the_Python_Ecosystem
+openvc,opencv-python,pip,"(6, 1)",,25/04/2018,Could not find description,N/A,https://www.researchgate.net/publication/343022080_Typosquatting_and_Combosquatting_Attacks_on_the_Python_Ecosystem
+diango,django,pip,"(2,)",,13/10/2023,Research / Data Leakage,Proof-of-concept,https://www.zdnet.com/article/twelve-malicious-python-libraries-found-and-removed-from-pypi/
+djago,django,pip,"(1,)",,13/10/2023,Research / Data Leakage,Proof-of-concept,https://www.zdnet.com/article/twelve-malicious-python-libraries-found-and-removed-from-pypi/
+dajngo,django,pip,"(1,)",,13/10/2023,Research / Data Leakage,Proof-of-concept,https://www.zdnet.com/article/twelve-malicious-python-libraries-found-and-removed-from-pypi/
+1-as_identity_function,1_as_identity_function,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+1-as-identity_function,1_as_identity_function,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+37_pieces-of-flair,37-pieces-of-flair,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+3months-staff_schedule,3months_staff_schedule,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+3months-staff-schedule,3months_staff_schedule,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+3scale-client,3scale_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+3scale-time_range,3scale_time_range,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+3scale-time-range,3scale_time_range,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+99designs_tasks,99designs-tasks,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a_test-gem,a-test-gem,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a-special_day,a_special_day,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a-special-day,a_special_day,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a-stupid_test_gem,a_stupid_test_gem,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a-stupid-test_gem,a_stupid_test_gem,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1330ks-bmi,a1330ks_bmi,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1408nw-Ounennhei,a1408nw_Ounennhei,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1409yo-health,a1409yo_health,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1412tk-bmi,a1412tk_bmi,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1420ks-bmi,a1420ks_bmi,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1426kt-prime_number,a1426kt_prime_number,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1426kt-prime-number,a1426kt_prime_number,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1436mm-age,a1436mm_age,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1437ky-bmi3,a1437ky_bmi3,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1439ty-bmiV3,a1439ty_bmiV3,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1447ll-hpbd,a1447ll_hpbd,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1447ll-mini_test,a1447ll_mini_test,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1447ll-test,a1447ll_test,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a14z6ch-elapsed_days,a14z6ch_elapsed_days,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a14z6ch-elapsed-days,a14z6ch_elapsed_days,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1501da-birthday,a1501da_birthday,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1508ki-ika,a1508ki_ika,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1510jy-bmi,a1510jy_bmi,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1520mk-exercise4,a1520mk_exercise4,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1521hk-age,a1521hk_age,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1521hk-minitest_practice,a1521hk_minitest_practice,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1521hk-minitest-practice,a1521hk_minitest_practice,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1535yt-gem,a1535yt_gem,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1539kh-calculator,a1539kh_calculator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1548sy-yamamoto,a1548sy_yamamoto,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a15666011-konagayoshi,a15666011_konagayoshi,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a15745105-ichinoki,a15745105_ichinoki,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a15745105-ichinokii,a15745105_ichinokii,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a15z7kn-niitsuma_2016_gem,a15z7kn_niitsuma_2016_gem,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a15z8my-name,a15z8my_name,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1616ts-gem,a1616ts_gem,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1624-bmi,a1624_bmi,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1630ty-a1630ty,a1630ty_a1630ty,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+a1632ma-ano,a1632ma_ano,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aai10_mechanize,aai10-mechanize,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aasm-active-fedora,aasm-active_fedora,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aasm-history,aasm_history,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aasm-ohm_persistence,aasm_ohm_persistence,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aastra-xml_api,aastra_xml_api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aastra-xml-api,aastra_xml_api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ab_split,ab-split,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ab-panel,ab_panel,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+abbish-sequel_plugins,abbish_sequel_plugins,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+abbreviated-methods,abbreviated_methods,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+abbyy_cloud,abbyy-cloud,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+abbyy_ruby,abbyy-ruby,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ability-engine,ability_engine,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ability-list,ability_list,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+abiquo_api,abiquo-api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+abn-validator,abn_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+about-pos,about_pos,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+absa_notify-me,absa-notify-me,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+abstract-api_wrapper,abstract_api_wrapper,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+abstract-importer,abstract_importer,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acceptance-tests_support,acceptance_tests_support,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acception_client,acception-client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acception_subscriber,acception-subscriber,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+accepts-nested_serialized_attributes,accepts_nested_serialized_attributes,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+access-lint,access_lint,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+access-policy,access_policy,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+access-policy_rails,access_policy_rails,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+access-policy-rails,access_policy_rails,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+accessible-tooltip,accessible_tooltip,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+accesslint_ci,accesslint-ci,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+accredible_api-ruby,accredible-api-ruby,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+accredible_ruby,accredible-ruby,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ace_client-ext,ace-client-ext,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ach-client,ach_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ackintosh-net-empty-port,ackintosh-net-empty_port,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acme_bleach,acme-bleach,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acme_cli,acme-cli,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acme_client,acme-client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acme_heisenberg,acme-heisenberg,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acme_leeway,acme-leeway,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acme_pki,acme-pki,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acme_smileage,acme-smileage,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acme-base64-hexagrams,acme-base64_hexagrams,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acmesmith_designate,acmesmith-designate,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acmesmith_google-cloud-dns,acmesmith-google-cloud-dns,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acmesmith_google-cloud-storage,acmesmith-google-cloud-storage,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acmesmith_ns1,acmesmith-ns1,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acmesmith_verisign,acmesmith-verisign,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acpc-poker_basic_proxy,acpc_poker_basic_proxy,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acpc-poker_match_state,acpc_poker_match_state,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acpc-poker_player_proxy,acpc_poker_player_proxy,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acpc-poker_types,acpc_poker_types,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acpc-poker-basic_proxy,acpc_poker_basic_proxy,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acpc-poker-match_state,acpc_poker_match_state,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acpc-poker-player_proxy,acpc_poker_player_proxy,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acpc-poker-types,acpc_poker_types,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acquia-toolbelt,acquia_toolbelt,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+act-as_enumerable,act_as_enumerable,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+act-as_importable,act_as_importable,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+act-as_nameable,act_as_nameable,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+act-as_serializable,act_as_serializable,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+act-as_time_as_boolean,act_as_time_as_boolean,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+act-blue_reporter,act_blue_reporter,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+action-cable_subscription_adapter,action_cable_subscription_adapter,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+action-component,action_component,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+action-links,action_links,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+action-mailer_cache_delivery,action_mailer_cache_delivery,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+action-meta_tags,action_meta_tags,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+action-parameter,action_parameter,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+action-pubsub,action_pubsub,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+action-subscriber,action_subscriber,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+actioncontroller-parameter-filter,actioncontroller-parameter_filter,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+actionmailer-inline_css,actionmailer_inline_css,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+actionmailer-localized-preview,actionmailer-localized_preview,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+actionview-link-to_blank,actionview-link_to_blank,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+actionview-link-to_block,actionview-link_to_block,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active_model-email-validator,active-model-email-validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active_profiling,active-profiling,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-admin_filters_visibility,active_admin_filters_visibility,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-admin_globalize3_locale_selector,active_admin_globalize3_locale_selector,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-admin_import,active_admin_import,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-admin_theme,active_admin_theme,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-admin-advanced_create_another,active_admin-advanced_create_another,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-admin-duplicatable,active_admin-duplicatable,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-application,active_application,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-comparison_validator,active_comparison_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-delivery,active_delivery,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-explorer,active_explorer,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-hash-like,active_hash-like,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-link_to,active_link_to,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-merchant_mollie,active_merchant_mollie,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-merchant-mollie,active_merchant_mollie,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model_policy,active_model_policy,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model_serializer_plus,active_model_serializer_plus,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model_serializers_binary,active_model_serializers_binary,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model_serializers_cancancan,active_model_serializers_cancancan,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model_serializers_matchers,active_model_serializers_matchers,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model_serializers_pg,active_model_serializers_pg,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model_serializers_validator,active_model_serializers_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model_serializers-cancan,active_model_serializers-cancan,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model_serializers-hash_wrapper,active_model_serializers-hash_wrapper,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model_serializers-jsonapi_embedded_records_deserializer,active_model_serializers-jsonapi_embedded_records_deserializer,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model_serializers-matchers,active_model_serializers_matchers,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model_type_validator,active_model_type_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model_validates_intersection_of,active_model_validates_intersection_of,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model_validators_ex,active_model_validators_ex,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model_version_serializers,active_model_version_serializers,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model-attributes_validation,active_model-attributes_validation,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model-better_errors,active_model-better_errors,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model-password,active_model-password,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model-password_reset,active_model-password_reset,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model-permalink,active_model-permalink,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-model-policy,active_model_policy,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-press,active_press,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-public_resources,active_public_resources,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-publisher,active_publisher,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-pubsub,active_pubsub,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-record_fix_integer_limit,active_record_fix_integer_limit,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-record_inline_schema,active_record_inline_schema,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-record_lite,active_record_lite,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-record_samplooper,active_record_samplooper,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-record_serialize_json,active_record_serialize_json,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-record_stats,active_record_stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-redis_stats,active_redis_stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-replica,active_record_replica,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-replicas,active_replicas,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-rest_client,active_rest_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-scaffold_batch_vho,active_scaffold_batch_vho,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-scaffold_config_list_vho,active_scaffold_config_list_vho,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-search,active_search,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-serializer,active_serializer,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-subset_validator,active_subset_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-subset-validator,active_subset_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-support_alias_class_method,active_support_alias_class_method,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-tools,active_tools,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-validation,active_validation,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+active-validator,active_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ActiveAdmin_Globalize3-inputs,ActiveAdmin-Globalize3-inputs,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activeadmin_mongoid-localize,activeadmin-mongoid-localize,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activeadmin-globalize_inputs,activeadmin_globalize_inputs,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activeadmin-jfu_upload,activeadmin_jfu_upload,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activeadmin-searchable-select,activeadmin-searchable_select,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activemerchant_clickandbuy,activemerchant-clickandbuy,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activemerchant_payline,activemerchant-payline,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activemerchant-banklink,activemerchant_banklink,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activemodel_validators,activemodel-validators,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activemodel-base64-validator,activemodel-base64_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activemodel-behavior-validator,activemodel-behavior_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activemodel-can-validator,activemodel-can_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activemodel-email-address_validator,activemodel-email_address_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activemodel-immutable-validator,activemodel-immutable_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activemodel-ipaddr-validator,activemodel-ipaddr_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activemodel-url-validator,activemodel-url_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord_databasevalidations,activerecord-databasevalidations,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord_db-tools,activerecord-db-tools,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord_denormalize,activerecord-denormalize,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord_duplicate,activerecord-duplicate,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord_implicit-order,activerecord-implicit-order,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord_jdbcsplice-adapter,activerecord-jdbcsplice-adapter,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord_like,activerecord-like,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord_locking-symbolic,activerecord-locking-symbolic,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord_postgresql-expression,activerecord-postgresql-expression,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord_publishable,activerecord-publishable,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord-database-validations,activerecord-database_validations,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord-forbid-implicit_connection_checkout,activerecord-forbid_implicit_connection_checkout,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord-globalize,activerecord_globalize,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord-json_validator,activerecord_json_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord-msgpack-serializer,activerecord-msgpack_serializer,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord-pluck-in_batches,activerecord-pluck_in_batches,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord-rescue-from_duplicate,activerecord-rescue_from_duplicate,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord-safe-initialize,activerecord-safe_initialize,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord-serialize-coders,activerecord-serialize_coders,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord-strict_validations,activerecord_strict_validations,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+activerecord-suppress-range_error,activerecord-suppress_range_error,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acts-as_better_tree,acts_as_better_tree,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acts-as_commentable_with_replies,acts_as_commentable_with_replies,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acts-as_crafter,acts_as_crafter,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acts-as_explorable,acts_as_explorable,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acts-as_fuzzy_search,acts_as_fuzzy_search,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acts-as_journalized,acts_as_journalized,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acts-as_keywordable,acts_as_keywordable,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acts-as_likeable,acts_as_likeable,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acts-as_liked,acts_as_liked,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acts-as_list_with_sti_support,acts_as_list_with_sti_support,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acts-as_localized,acts_as_localized,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acts-as_multilingual,acts_as_multilingual,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acts-as_publicable,acts_as_publicable,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acts-as_publishable,acts_as_publishable,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acts-as_read_only_i18n_localised,acts_as_read_only_i18n_localised,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acts-as_splittable,acts_as_splittable,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+acts-as_subscribable,acts_as_subscribable,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ad-search,ad_search,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+adapter_elasticsearch,adapter-elasticsearch,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+adapter_sqlite3,adapter-sqlite3,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+adb_sdklib,adb-sdklib,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+addons_client,addons-client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+address-validate,address_validate,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+address-validator,address_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+addy-caddy_client,addy_caddy_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+adequate-serializer,adequate_serializer,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+administrate_field-mobility,administrate-field-mobility,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+administrate_field-paperclip,administrate-field-paperclip,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+administrate_field-password,administrate-field-password,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+administrate-field-belongs-to_search,administrate-field-belongs_to_search,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+admiral-stats_parser,admiral_stats_parser,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+admob-site_stats,admob_site_stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+adn_cli,adn-cli,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+adtech_api-client,adtech-api-client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+advisors-command_client,advisors_command_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+adwords-scraper,adwords_scraper,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+adyen_ruby-api-library,adyen-ruby-api-library,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ae-validates-timeliness,ae-validates_timeliness,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aem_deploy,aem-deploy,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+after-the_deadline,after_the_deadline,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+agave_client,agave-client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+age-validator,age_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+agile_cli,agile-cli,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+agnostic_duplicate,agnostic-duplicate,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+airbrake_api,airbrake-api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+airbrake_statsd,airbrake-statsd,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+airbrake-notifying_threads,airbrake_notifying_threads,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+airbrake-proxy,airbrake_proxy,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+airbrake-stats,airbrake_stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+airbrake-user_attributes,airbrake_user_attributes,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+airbrake-user_attributes_rails5,airbrake_user_attributes_rails5,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+airservice-build_tools,airservice_build_tools,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ajax-submit_rails,ajax_submit_rails,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aker-cas-cli,aker-cas_cli,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alacrity-client,alacrity_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alcatraz_client,alcatraz-client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alchemy-pg-search,alchemy-pg_search,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alephant_logger-statsd,alephant-logger-statsd,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alephant_publisher,alephant-publisher,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alephant_publisher-queue,alephant-publisher-queue,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alephant_publisher-request,alephant-publisher-request,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alerty_plugin-datadog-event,alerty-plugin-datadog_event,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alerty_plugin-ikachan,alerty-plugin-ikachan,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alerty_plugin-mail,alerty-plugin-mail,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alerty_plugin-slack,alerty-plugin-slack,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alerty-plugin-amazon-sns,alerty-plugin-amazon_sns,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alerty-plugin-datadog-event,alerty-plugin-datadog_event,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alexa-plugin_generator,alexa_plugin_generator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+algolia-places,algolia_places,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ali-dayu,ali_dayu,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ali-mns,ali_mns,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alias-class,alias_class,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alias-helper,alias_helper,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alias-metrics,alias_metrics,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alias-scope,alias_scope,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alias-to_method,alias_to_method,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alidayu-api,alidayu_api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alidns_ruby,alidns-ruby,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aligned-table,aligned_table,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alipay-dualfun,alipay_dualfun,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alipay-escrow,alipay_escrow,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alipay-global,alipay_global,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aliseeks-api,aliseeks_api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alive-state,alive_state,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aliyun_mq-sdk,aliyun-mq-sdk,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aliyun_mqs,aliyun-mqs,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aliyun_mts,aliyun-mts,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aliyun_odps,aliyun-odps,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aliyun_push,aliyun-push,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aliyun_rds,aliyun-rds,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aliyun_sdk-core,aliyun-sdk-core,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aliyun_slb,aliyun-slb,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aliyun-live,aliyun_live,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aliyun-mns,aliyun_mns,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aliyun-open_search,aliyun_open_search,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aliyun-open-search,aliyun_open_search,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aliyun-ruby_api,aliyun_ruby_api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aliyun-sls,aliyun_sls,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aliyun-sls_sdk,aliyun_sls_sdk,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+allocation-stats,allocation_stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+allq-client,allq_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+allscripts-unity_client,allscripts_unity_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alphabet_rocker,alphabet-rocker,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alphabetic-paginate,alphabetic_paginate,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alphabetical-paginate,alphabetical_paginate,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+alphabetical-paginate_uk,alphabetical_paginate_uk,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+also-validates,also_validates,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ama-validators,ama_validators,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+amazon_kinesis-client-ruby,amazon-kinesis-client-ruby,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+amazon_search,amazon-search,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+amoeba-deploy_tools,amoeba_deploy_tools,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+amplifypay-ruby,amplifypay_ruby,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+amplitude_api,amplitude-api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+android_command-line-tools,android-command-line-tools,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+android_publisher,android-publisher,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+android-lint_translate_checkstyle_format,android_lint_translate_checkstyle_format,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+android-string_resources_validator,android_string_resources_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+angel-list,angel_list,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+angular_file-upload-rails,angular-file-upload-rails,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+angular_turbolinks,angular-turbolinks,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+angular-form_validation,angular_form_validation,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ansible-tower_client,ansible_tower_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+answers_ruby-client,answers-ruby-client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+any_validate,any-validate,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+anything_slider,anything_slider_rails,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+anything-slider_rails,anything_slider_rails,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apache-felix_api_client,apache_felix_api_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apache-felix_webconsole_client,apache_felix_webconsole_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apache-sling_api_client,apache_sling_api_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+api-batch,batch_api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+api-client_builder,api_client_builder,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+api-deploy,api_deploy,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+api-geo_client,api_geo_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apibanca_client,apibanca-client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apidone_client,apidone-client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apigee-cli,apigee_cli,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apiotics-aws_client,apiotics_aws_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apiotics-aws_iot_client,apiotics-aws-iot-client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apitool_client,apitool-client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apn-client,apn_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apns-polite,apns_polite,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apocalypse_client,apocalypse-client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apod_cli,apod-cli,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+app_cli,app-cli,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+app_deployer,app-deployer,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+appfigures-client,appfigures_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+appium-doc_lint,appium_doc_lint,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+appium-lib,appium_lib,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apple-class_client,apple_class_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apple-dep_client,apple_dep_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apple-store_search,apple_store_search,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+applicant-tracking_api,applicant_tracking_api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+applicaster_logger,applicaster-logger,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+application-config,application_config,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+application-digester,application_digester,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+application-insights,application_insights,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+application-module,application_module,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+application-seeds,application_seeds,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+applicious-utils,applicious_utils,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+applidget_oauth2,applidget-oauth2,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+applied-css,applied_css,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+approval_ratings-cli-app,approval-ratings-cli-app,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apptuit_fluent-plugin,apptuit-fluent-plugin,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apress_api,apress-api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apress_changelogger,apress-changelogger,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apress_documentation,apress-documentation,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apress_moysklad,apress-moysklad,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+apress_validators,apress-validators,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aptible_cli,aptible-cli,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aptly-cli,aptly_cli,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ar_find-in-batches-with-order,ar-find-in-batches-with-order,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ar_octopus-replication-tracking,ar-octopus-replication-tracking,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ar_serialize-helpers,ar-serialize-helpers,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ar-database_duplicator,ar_database_duplicator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ar-json_serialize,ar_json_serialize,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ar-lightning,ar_lightning,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ar-publish_control,ar_publish_control,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+arabic-normalizer,arabic_normalizer,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+arb-spider,arb_spider,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+archive-lister,archive_lister,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+archive-uploader,archive_uploader,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+archivist_client,archivist-client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+arctica_autorization-rails-plugin,arctica-autorization-rails-plugin,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ardm_serializer,ardm-serializer,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ardm_sqlite-adapter,ardm-sqlite-adapter,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ardm_validations,ardm-validations,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+area-code_validator,area_code_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+arel-search,arel_search,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+arethusa_cli,arethusa-cli,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+arethusa_client,arethusa-client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+arethusa-plugin_generator,arethusa_plugin_generator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+argentinian_validations,argentinian-validations,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+arproxy-plugin-mysql-casual_log,arproxy-plugin-mysql_casual_log,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+array_subindex,array-subindex,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+array-xml-serialization,array-xml_serialization,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+artisan_plugin,artisan-plugin,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+artoo_crazyflie,artoo-crazyflie,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+asana_cli,asana-cli,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ascii-press,ascii_press,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+asciidoctor_bibliography,asciidoctor-bibliography,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+asciidoctor_pdf-linewrap-ja,asciidoctor-pdf-linewrap-ja,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aspose-slides_cloud,aspose_slides_cloud,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+assembla-cli,assembla_cli,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+assembly_client,assembly-client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+assemblyline_cli,assemblyline-cli,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+assemblyline_formatter,assemblyline-formatter,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+assemblyline_ruby,assemblyline-ruby,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+asset-host_client,asset_host_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+asset-link,asset_link,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+asset-pipeline,sinatra-asset-pipeline,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+asset-pipeline_i18n,asset_pipeline_i18n,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+asset-symlink,asset_symlink,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+asset-uploader,asset_uploader,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+assets_publisher-for-hanami,assets-publisher-for-hanami,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+assets-live_compile,assets_live_compile,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+assets-offline,assets_offline,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+assets-pipeline,assets_pipeline,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+association-validator,association_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+asterisk_ari-client,asterisk-ari-client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+astroboa_cli,astroboa-cli,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+at_validations,at-validations,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+at-least_one_existence_validator,at_least_one_existence_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+atacama-client,atacama_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+atlas-client,atlas_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+atlassian-plugin_installer,atlassian_plugin_installer,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+attr-searchable,attr_searchable,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+attr-validator,attr_validator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+attribute-normalizer-extras,attribute_normalizer-extras,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+audio-mixer-sox,audio_mixer-sox,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+audiobank_client,audiobank-client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+auth_transis-client,auth-transis-client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+auth-client,auth_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+authenticated-client,authenticated_client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+authenticator_client,authenticator-client,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+auto_deploy-test,auto-deploy-test,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+auto-click,auto_click,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+auto-flick,auto_flick,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+auto-localize,auto_localize,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+auto-scaling_methods,auto_scaling_methods,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+auto-validate,auto_validate,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+autoexec-bat,autoexec_bat,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+autoproj_stats,autoproj-stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+awesome-print_carrier_wave_uploader,awesome_print_carrier_wave_uploader,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aws_codedeploy-agent,aws-codedeploy-agent,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aws_elasticsearch,fluent-plugin-aws-elasticsearch-service,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aws_s3-deploy,aws-s3-deploy,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aws-blue_green_deploy,aws_blue_green_deploy,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aws-cloud_search,aws_cloud_search,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aws-sns_subscription,aws_sns_subscription,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+aws-upload,aws_upload,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ba-upload,ba_upload,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+backbone_subroute-rails,backbone-subroute-rails,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+backstop_deploys,backstop-deploys,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+bankgiro-inbetalningar,bankgiro_inbetalningar,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+banner-jobsub,banner_jobsub,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+bard_rake,bard-rake,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+barely-searchable,barely_searchable,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+barometer-weather-bug,barometer-weather_bug,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+basic_stats,basic-stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+batali_infuse,batali-infuse,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+batali_tk,batali-tk,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+batali_wedge,batali-wedge,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+batch_rails,batch-rails,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+batch_rails2,batch-rails2,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+batch-actions,batch_actions,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+batch-audio_convert,batch_audio_convert,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+batch-insert,batch_insert,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+batch-it,batch_it,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+batch-translations,batch_translations,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+batched-query,batched_query,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+batman_rails,batman-rails,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+batsd_dash,batsd-dash,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+battering-ram,battering_ram,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+battery-growl,battery_growl,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+battle_on,battle-on,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+bbs-uploader,bbs_uploader,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+bedrock_capistrano-uploads,bedrock-capistrano-uploads,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+beer-bash,beer_bash,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+beer-in_the_evening,beer_in_the_evening,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+beerdb-api,beerdb_api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+belong_plugin-rds-pgsql-log,belong-plugin-rds-pgsql-log,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+benchmark_plot,benchmark-plot,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+beta_pod,beta-pod,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+beta-invites,beta_invites,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+beta-tools,beta_tools,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+biblesearch_api,biblesearch-api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+bin-search,bin_search,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+binary-search_frequency,binary_search_frequency,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+binary-search_tree,binary_search_tree,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+bisearch-enzim_hu,bisearch_enzim_hu,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+bitmovin_api,bitmovin-api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+blacklight-advanced_search,blacklight_advanced_search,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+blade-sauce-labs_plugin,blade-sauce_labs_plugin,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+blinkist_airbrake-scrubber,blinkist-airbrake-scrubber,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+blinkman-twitter-search,blinkman-twitter_search,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+bosh_plugin-generator,bosh-plugin-generator,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+bosh_plugin-pipeline,bosh-plugin-pipeline,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+bosh-cli_plugin_consul,bosh_cli_plugin_consul,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+bosh-cli_plugin_redis,bosh_cli_plugin_redis,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+bosh-lastpass_plugin,bosh_lastpass_plugin,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+brakeman-translate_checkstyle_format,brakeman_translate_checkstyle_format,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+branch-raker,branch_raker,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+brightbox_boxgrinder-plugins,brightbox-boxgrinder-plugins,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+bulldoggy_filesystem,bulldoggy-filesystem,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+bunto_press,bunto-press,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+bunto-test_plugin,bunto_test_plugin,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+bunto-test_plugin_malicious,bunto_test_plugin_malicious,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+cache-stats,cache_stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+cafepress-api,cafepress_api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+campaign-monitor_subscriber,campaign_monitor_subscriber,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+candy_-sql,candy--sql,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+candy-check,candy_check,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+cap_drupal-multisite,cap-drupal-multisite,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+capistrano_airbrake,capistrano-airbrake,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+capistrano_auth-subscriber,capistrano-auth-subscriber,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+capistrano_copy-subdir,capistrano-copy-subdir,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+capistrano_rails-subdir,capistrano-rails-subdir,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+capistrano_rake,capistrano-rake,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+capistrano_runit-rake,capistrano-runit-rake,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+capistrano_stats,capistrano-stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+capistrano_telegram,capistrano-telegram,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+capistrano_telegram-notification,capistrano-telegram_notification,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+capistrano-scm-git-with_submodule_and_resolv_symlinks,capistrano-scm-git_with_submodule_and_resolv_symlinks,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+capistrano-telegram-notification,capistrano-telegram_notification,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+capistrano3_drupal,capistrano3-drupal,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+cards-lib,cards_lib,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+cat_dog,cat-dog,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+catarse-paypal_express,catarse_paypal_express,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ceedling_autorake,ceedling-autorake,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+chalk_rake,chalk-rake,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+chef_cloudsearch,chef-cloudsearch,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+chef_handler-datadog-demo,chef-handler-datadog-demo,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+chef_handler-statsd,chef-handler-statsd,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+chef-partial-search,chef-partial_search,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+cinch_logsearch,cinch-logsearch,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+cinch_weatherman,cinch-weatherman,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+city-search,city_search,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+claide_plugins,claide-plugins,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+cloud-search,cloud_search,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+cocoapods_fixbugs-plugin,cocoapods-fixbugs-plugin,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+cocoapods_icemobile-plugin,cocoapods-icemobile-plugin,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+codestats_metrics-reporter,codestats-metrics-reporter,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+comic-vine,comic_vine,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+commandsy_plugin,commandsy-plugin,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+commission-junction_stats,commission_junction_stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+commonmarker_pluggable,commonmarker-pluggable,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+contributors-stats,contributors_stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+cordova_rake,cordova-rake,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+crl-watchdog,crl_watchdog,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+cucumber-rake_runner,cucumber_rake_runner,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+current-weather,current_weather,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+damn_weather,damn-weather,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+danger_apkstats,danger-apkstats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+danger_brakeman,danger-brakeman,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+dark-sky_weather,dark_sky_weather,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+datadog_cli,datadog-cli,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+datadog_notifications,datadog-notifications,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+datadog-apm,datadog_apm,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+datadog-proxy,datadog_proxy,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+delayed_plugins-airbrake,delayed-plugins-airbrake,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+deriving-license,deriving_license,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+devino-sms,devino_sms,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+divining-rod,divining_rod,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+dog-biscuits,dog_biscuits,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+dogapi_demo,dogapi-demo,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+doge_chef-formatter,doge-chef-formatter,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+doge-helper,doge_helper,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+doge-linguist,doge_linguist,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+doge-woof,doge_woof,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+dot-rake_tasks_in_rails,dot_rake_tasks_in_rails,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+dradis_brakeman,dradis-brakeman,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+dradis_nmap,dradis-nmap,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+dradis_ntospider,dradis-ntospider,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+dragonfly_activerecord,dragonfly-activerecord,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+dragonfly_cloudinary,dragonfly-cloudinary,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+dragonfly_cloudinary-datastore,dragonfly-cloudinary-datastore,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+drupal-fu,drupal_fu,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+dt_rake,dt-rake,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+edmunds-vin,edmunds_vin,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+education-stats,education_stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ellen_weather,ellen-weather,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+em_statsd,em-statsd,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+em_statsd-ruby,em-statsd-ruby,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+em_synchrony-dataone-vin,em-synchrony-dataone-vin,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+emque_stats,emque-stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+enpit-weather,enpit_weather,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+execute-with_rescue_with_airbrake,execute_with_rescue_with_airbrake,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+fig-rake,fig_rake,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+first-gem_rakesh,first_gem_rakesh,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+first-giving_api,first_giving_api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+fluent_plugin-airbrake-logger,fluent-plugin-airbrake-logger,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+fluent_plugin-airbrake-python,fluent-plugin-airbrake-python,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+fluent_plugin-datadog-statsd,fluent-plugin-datadog-statsd,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+fluent_plugin-dogstatsd,fluent-plugin-dogstatsd,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+fluent_plugin-dogstatsd-mediba,fluent-plugin-dogstatsd-mediba,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+fluent_plugin-stats,fluent-plugin-stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+fluent_plugin-stats-notifier,fluent-plugin-stats-notifier,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+fluent_plugin-statsd,fluent-plugin-statsd,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+fluent_plugin-statsd-event,fluent-plugin-statsd-event,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+fluent_plugin-statsd-output,fluent-plugin-statsd-output,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+fluent_plugin-statsite,fluent-plugin-statsite,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+fluent-plugin-haproxy-stats,fluent-plugin-haproxy_stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+font_awesome-sass,font-awesome-sass,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+font_awesome-sass-c,font-awesome-sass-c,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+font_awesome-sass-mixins,font-awesome-sass-mixins,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+font_awesome-sassc,font-awesome-sassc,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+font_fabulous,font-fabulous,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+font_league,font-league,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+font_roboto-rails,font-roboto-rails,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+font_stack,font-stack,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+font-assets,font_assets,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+foot-stats,foot_stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+forgiving-nil,forgiving_nil,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+fortnite-api,fortnite_api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+galvinhsiu-active-cart,galvinhsiu-active_cart,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+game-shuffle_cards,game_shuffle_cards,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+gamer-stats,gamer_stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+get-stats,get_stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+gimme-vins,gimme_vins,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+git-team_stats,git_team_stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+github_org-stats,github-org-stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+github_release-stats,github-release-stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+gitstats_rb,gitstats-rb,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+gitstats_ruby,gitstats-ruby,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+hack-cards,hack_cards,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+halo-stats,halo_stats,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+hello-kelvinst,hello_kelvinst,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+http-statsd,http_statsd,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+indonesian-province,indonesian_province,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+jaconda-telegram,jaconda_telegram,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+jenkins-statsd,jenkins_statsd,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+jmcnevin-rghost-barcode,jmcnevin-rghost_barcode,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+kevin-thompson,kevin_thompson,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+kevins-propietary_brain,kevins_propietary_brain,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+lang-cards,lang_cards,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+language-mixer,language_mixer,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+lines-mixer,lines_mixer,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+lita_onewheel-beer-abvpub,lita-onewheel-beer-abvpub,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+lita_onewheel-beer-apex,lita-onewheel-beer-apex,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+lita_onewheel-beer-baileys,lita-onewheel-beer-baileys,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+lita_onewheel-beer-base,lita-onewheel-beer-base,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+lita_onewheel-beer-btu,lita-onewheel-beer-btu,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+lita_onewheel-beer-craftpourhouse,lita-onewheel-beer-craftpourhouse,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+lita_onewheel-beer-growlers,lita-onewheel-beer-growlers,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+lita_onewheel-beer-loyal-legion,lita-onewheel-beer-loyal-legion,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+lita_onewheel-beer-pints,lita-onewheel-beer-pints,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+lita_onewheel-beer-tin-bucket,lita-onewheel-beer-tin-bucket,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+lita_onewheel-beer-upperlip,lita-onewheel-beer-upperlip,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+lita_onewheel-beer-wayfinder,lita-onewheel-beer-wayfinder,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+lita_onewheel-beer-wework,lita-onewheel-beer-wework,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+lita_telegram,lita-telegram-plus,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+lita_telegram-plus,lita-telegram-plus,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+living-dead,living_dead,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+mars-rover_alvin,mars_rover_alvin,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+movie-spider,movie_spider,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+moving-average,moving_average,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+moving-images,moving_images,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+moving-words,moving_words,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+movingsign-api,movingsign_api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+multi-movingsign,multi_movingsign,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+murmuring-spider,murmuring_spider,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+nhtsa-vin,nhtsa_vin,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+omniauth_marvin,omniauth-marvin,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+omniauth_mixer,omniauth-mixer,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+playing-cards,playing_cards,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+rack_envinspector,rack-envinspector,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+rails_test-serving,rails-test-serving,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+rate-beer,rate_beer,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+referral-candy,referral_candy,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+resque-stuck_queue,resque_stuck_queue,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+royal-mail_api,royal_mail_api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+royal-mail_scraper,royal_mail_scraper,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+rspec-candy,rspec_candy,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ruboty_telegram,ruboty-telegram,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+ruby-playing_cards,ruby_playing_cards,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+rubylove-playing-cards,rubylove-playing_cards,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+secondhand_spider,secondhand-spider,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+seeing-is_believing,seeing_is_believing,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+selenium-spider,selenium_spider,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+speed-spider,speed_spider,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+spider_gazelle,spider-gazelle,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+spider_node,spider-node,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+spider_src,spider-src,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+spider-bot,spider_bot,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+spider-html,spider_html,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+spider-monkey,spider_monkey,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+stuck-it_up,stuck_it_up,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+telegram_bot-ruby,telegram-bot-ruby,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+telegram_bot-types,telegram-bot-types,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+telegram-bot_api,telegram_bot_api,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+telegram-bot_middleware,telegram_bot_middleware,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+telegram-bot_ruby,telegram-bot-ruby,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+telegram-meetup_bot,telegram_meetup_bot,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+telegram-notifications,telegram_notifications,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+twitter_vine,twitter-vine,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+twitter-cards,twitter_cards,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+vagrant_hvinfo,vagrant-hvinfo,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+wordify-stuckiest,wordify_stuckiest,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs
+workarea-gift-cards,workarea-gift_cards,RubyGems,"(3,)",,25/02/2020,Ruby Delimiter Reversing Labs,Crypto theft,Reversing Labs

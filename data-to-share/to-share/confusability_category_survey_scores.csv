@@ -1,0 +1,785 @@
+id,base_pkg,adv_pkg,attack_type,response_count,likert_scores,considering_scores,confusability_cat
+230,creditcards,creditcard,grammatical substitution,4,"[6, 6, 6, 6]","[6, 6, 6]",Very Highly Confusing
+437,gray-matter,grey-matter,alternate spelling,7,"[6, 6, 6, 6, 6, 6]","[6, 6, 6]",Very Highly Confusing
+418,glamor,glamour,alternate spelling,7,"[6, 6, 6, 6, 3, 6]","[6, 6, 6]",Very Highly Confusing
+55,@sap-cloud-sdk/util,@sap/cloud-sdk-util,scope confusion,4,"[6, 6, 6, 2]","[6, 2, 6]",Mildly Confusing
+1074,validatorjs,validator-js,delimiter modification,3,"[6, 6, 5]","[6, 6, 5]",Highly Confusing
+395,front-matter,frontmatter,delimiter modification,4,"[6, 6, 4]","[6, 6, 4]",Confusing
+343,ethereumjs-util,ethereumjs-utils,grammatical substitution,4,"[6, 6, 3]","[6, 6, 3]",Mildly Confusing
+444,guid-typescript,typescript-guid,sequence reordering,3,"[6, 6, 3]","[6, 6, 3]",Mildly Confusing
+691,normalize-path,normalize-paths,grammatical substitution,3,"[6, 6, 3]","[6, 6, 3]",Mildly Confusing
+848,redux-batched-actions,redux-batched-actions-thunk,prefix/ suffix augmentation,4,"[6, 6, 3]","[6, 6, 3]",Mildly Confusing
+1001,tcomb,fcomb,homographic replacement,3,"[6, 6, 3]","[6, 6, 3]",Mildly Confusing
+725,parse-url,parse_url,delimiter modification,4,"[6, 6, 3, 4]","[3, 6, 4]",Mildly Confusing
+802,react-clamp-lines,react-line-clamp,grammatical substitution,3,"[6, 6, 2]","[6, 6, 2]",Mildly Confusing
+224,cra-template,cra-template-red-hot-craco,prefix/ suffix augmentation,3,"[6, 6, 1]","[6, 6, 1]",Mildly Confusing
+757,pouchdb-binary-utils,pouchdb-binary-util,grammatical substitution,4,"[6, 6, 1, 6]","[1, 6, 6]",Mildly Confusing
+216,cookies-js,cookie_js,grammatical substitution,4,"[6, 5, 6]","[6, 5, 6]",Highly Confusing
+492,is,ls,homographic replacement,3,"[6, 5, 6]","[6, 5, 6]",Highly Confusing
+808,react-google-maps,react-maps-google,sequence reordering,3,"[6, 5, 6]","[6, 5, 6]",Highly Confusing
+819,react-navigation-tabs,react-tabs-navigation,sequence reordering,3,"[6, 5, 6]","[6, 5, 6]",Highly Confusing
+126,arrivals,arrival,grammatical substitution,4,"[6, 5, 6, 5]","[6, 6, 5]",Highly Confusing
+806,react-flag-kit,react-flagkit,delimiter modification,4,"[6, 5, 6, 3]","[3, 6, 3]",Not Confusing
+246,csv-parse,parse-csv,sequence reordering,4,"[6, 5, 6, 2]","[5, 6, 2]",Mildly Confusing
+733,pdfjs,pdf.js,delimiter modification,3,"[6, 5, 5]","[6, 5, 5]",Highly Confusing
+756,pouchdb,dbpouch,delimiter modification,3,"[6, 5, 5]","[6, 5, 5]",Highly Confusing
+968,stream-connect,connect-stream,sequence reordering,3,"[6, 5, 5]","[6, 5, 5]",Highly Confusing
+264,date-utils,dateutil,grammatical substitution,4,"[6, 5, 5, 5]","[5, 5, 5]",Highly Confusing
+352,express-http-proxy,express-http-proxy-async,prefix/ suffix augmentation,4,"[6, 5, 5, 5]","[5, 5, 5]",Highly Confusing
+38,@material/fab,@materialr/fab,scope confusion,4,"[6, 5, 4]","[6, 5, 4]",Confusing
+257,dashjs,dash-js,delimiter modification,4,"[6, 5, 4]","[6, 5, 4]",Confusing
+298,download,downloadr,grammatical substitution,4,"[6, 5, 4]","[6, 5, 4]",Confusing
+312,ejs,ejstpl,prefix/ suffix augmentation,4,"[6, 5, 4]","[6, 5, 4]",Confusing
+31,@jest/reporters,jest-reporters,scope confusion,4,"[6, 5, 4, 2]","[4, 4, 5]",Confusing
+825,react-recaptcha,recaptcha-react,sequence reordering,3,"[6, 5, 3]","[6, 5, 3]",Mildly Confusing
+975,string,strings,grammatical substitution,3,"[6, 5, 3]","[6, 5, 3]",Mildly Confusing
+1042,types-registry,type-registry,grammatical substitution,3,"[6, 5, 3]","[6, 5, 3]",Mildly Confusing
+560,jsonp,jsonpos,prefix/ suffix augmentation,3,"[6, 5, 2]","[6, 5, 2]",Mildly Confusing
+954,standard-json,json-standard,sequence reordering,3,"[6, 5, 2]","[6, 5, 2]",Mildly Confusing
+371,file-saver,save-file,grammatical substitution,4,"[6, 4, 6]","[6, 4, 6]",Confusing
+601,lodash.isarray,sarray,simplification,3,"[6, 4, 6]","[6, 4, 6]",Confusing
+152,basic-auth-connect,connect-basic-auth,sequence reordering,4,"[6, 4, 6, 2]","[4, 6, 4]",Confusing
+6,@aws-cdk/aws-dms,@aws-cdk/aws-fms,scope confusion,4,"[6, 4, 5]","[6, 4, 5]",Confusing
+853,relay-test-utils,relay-testing-utils,semantic substitution,3,"[6, 4, 5]","[6, 4, 5]",Confusing
+237,css-loader,loader-css,sequence reordering,4,"[6, 4, 4]","[6, 4, 4]",Confusing
+1030,tsconfig,ts-config,delimiter modification,3,"[6, 4, 4]","[6, 4, 4]",Confusing
+643,mimelib,mime-lib,delimiter modification,4,"[6, 4, 4, 6]","[4, 6, 4]",Confusing
+60,@stdlib/math-base-special-ceil,@stdlib/math-base-special-ceilf,scope confusion,4,"[6, 4, 4, 4]","[6, 4, 4]",Confusing
+95,accesscontrol,access-control,delimiter modification,4,"[6, 4, 3]","[6, 4, 3]",Mildly Confusing
+125,array-source,array,simplification,3,"[6, 4, 1]","[6, 4, 1]",Mildly Confusing
+91,@vue/cli-plugin-typescript,vue-cli-plugin-typescript,scope confusion,4,"[6, 4, 1, 5]","[5, 6, 1]",Mildly Confusing
+510,isobject,object,simplification,4,"[6, 4, 1, 5]","[1, 5, 1]",Not Confusing
+581,leaflet.markercluster,leaflet-markercluster,delimiter modification,4,"[6, 4, 1, 4]","[4, 6, 6]",Confusing
+10,@aws-sdk/client-sns,@aws-sdk/client-sms,scope confusion,4,"[6, 3, 6]","[6, 3, 6]",Mildly Confusing
+805,react-credit-cards,react-credit-card,grammatical substitution,3,"[6, 3, 6]","[6, 3, 6]",Mildly Confusing
+809,react-hotkeys,react-hotkey,grammatical substitution,3,"[6, 3, 6]","[6, 3, 6]",Mildly Confusing
+970,stream-promise,promise-stream,sequence reordering,3,"[6, 3, 6]","[6, 3, 6]",Mildly Confusing
+285,diff,keys-diff,prefix/ suffix augmentation,4,"[6, 3, 5]","[6, 3, 5]",Mildly Confusing
+293,dom-set,set-dom,sequence reordering,3,"[6, 3, 5]","[6, 3, 5]",Mildly Confusing
+57,@serverless/cli,@serverless-stack/cli,scope confusion,4,"[6, 3, 4]","[6, 3, 4]",Mildly Confusing
+835,react-textfit,react-fittext,sequence reordering,3,"[6, 3, 4]","[6, 3, 4]",Mildly Confusing
+593,lock,lockmap,prefix/ suffix augmentation,4,"[6, 3, 3, 2]","[3, 2, 3]",Not Confusing
+190,co,cor,grammatical substitution,3,"[6, 3, 2]","[6, 3, 2]",Not Confusing
+25,@graphql-codegen/introspection,graphql-codegen-introspection,scope confusion,4,"[6, 3, 2, 5]","[5, 3, 6]",Mildly Confusing
+645,mini-store,mini-stores,grammatical substitution,4,"[6, 2, 6]","[6, 2, 6]",Mildly Confusing
+289,distributions,distribution,grammatical substitution,4,"[6, 2, 6, 2]","[6, 2, 2]",Not Confusing
+243,csstype,type-css,sequence reordering,4,"[6, 2, 5]","[6, 2, 5]",Mildly Confusing
+507,is-zip,zipit,delimiter modification,4,"[6, 2, 5]","[6, 2, 5]",Mildly Confusing
+850,regl,regi,homographic replacement,3,"[6, 2, 5]","[6, 2, 5]",Mildly Confusing
+59,@slack/logger,slack-logger,scope confusion,4,"[6, 2, 4]","[6, 2, 4]",Mildly Confusing
+707,oboe,soprano-saxophone,semantic substitution,3,"[6, 2, 4]","[6, 2, 4]",Mildly Confusing
+682,node-fs,node.fs,delimiter modification,3,"[6, 2, 3]","[6, 2, 3]",Not Confusing
+1032,tsutils,tw-utils,delimiter modification,3,"[6, 2, 3]","[6, 2, 3]",Not Confusing
+537,js-yaml,jsonjs,semantic substitution,4,"[6, 2, 3, 1]","[1, 2, 1]",Not Confusing
+92,@vue/test-utils,vue-test-utils,scope confusion,3,"[6, 2, 2]","[6, 2, 2]",Not Confusing
+999,tarr,farr,homographic replacement,3,"[6, 2, 1]","[6, 2, 1]",Not Confusing
+1053,uri-js,url-js,homographic replacement,3,"[6, 1, 6]","[6, 1, 6]",Mildly Confusing
+460,html,html5,homophonic similarity,4,"[6, 1, 6, 6]","[6, 6, 6]",Very Highly Confusing
+1014,ticky,tauque,homophonic similarity,3,"[6, 1, 5]","[6, 1, 5]",Mildly Confusing
+452,hawk,heygo,homophonic similarity,4,"[6, 1, 4, 2]","[6, 6, 1]",Mildly Confusing
+493,is-array,array,simplification,4,"[6, 1, 2]","[6, 1, 2]",Not Confusing
+393,fp-ts,tsfv,delimiter modification,4,"[6, 1, 2, 2]","[2, 2, 6]",Not Confusing
+355,extend,extends,grammatical substitution,4,"[6, 1, 1]","[6, 1, 1]",Not Confusing
+279,dequal,dequel,homographic replacement,4,"[5, 6, 6]","[5, 6, 6]",Highly Confusing
+694,notation,notations,grammatical substitution,4,"[5, 6, 6, 6]","[6, 6, 5]",Highly Confusing
+902,scroll-behavior,scroll-behaviour,alternate spelling,6,"[5, 6, 6, 6, 3, 6]","[6, 6, 3]",Mildly Confusing
+78,@types/google-map-react,@types/google-maps-react,scope confusion,4,"[5, 6, 6, 5]","[6, 5, 6]",Highly Confusing
+692,normalize-scss,normalise.scss,alternate spelling,6,"[5, 6, 6, 2, 5, 4]","[6, 5, 6]",Highly Confusing
+106,ansi-color,ansicolour,alternate spelling,7,"[5, 6, 6, 1, 6, 5]","[1, 6, 5]",Mildly Confusing
+304,duck,ducks,grammatical substitution,4,"[5, 6, 5]","[5, 6, 5]",Highly Confusing
+310,easyimage,image,simplification,3,"[5, 6, 5]","[5, 6, 5]",Highly Confusing
+334,eslint-config-prettier,eslint-prettier-config,sequence reordering,3,"[5, 6, 5]","[5, 6, 5]",Highly Confusing
+791,random,randoms,grammatical substitution,3,"[5, 6, 5]","[5, 6, 5]",Highly Confusing
+62,@stdlib/math-base-special-sin,@stdlib/math-base-special-sinc,scope confusion,4,"[5, 6, 4]","[5, 6, 4]",Confusing
+66,@turf/turf,@bmap-turf/turf,scope confusion,3,"[5, 6, 4]","[5, 6, 4]",Confusing
+649,mock-local-storage,mock-localstorage,delimiter modification,3,"[5, 6, 4]","[5, 6, 4]",Confusing
+414,gitlog,git-log,delimiter modification,4,"[5, 6, 4, 5]","[5, 5, 5]",Highly Confusing
+83,@types/offscreencanvas,@types/offscreen-canvas,scope confusion,3,"[5, 6, 3]","[5, 6, 3]",Mildly Confusing
+294,dom-urls,domurl,grammatical substitution,4,"[5, 6, 3]","[5, 6, 3]",Mildly Confusing
+375,filestack-react,react-filestack,sequence reordering,3,"[5, 6, 3]","[5, 6, 3]",Mildly Confusing
+953,standard-error,standard-errors,grammatical substitution,3,"[5, 6, 3]","[5, 6, 3]",Mildly Confusing
+191,co-use,cpuse,delimiter modification,3,"[5, 6, 2]","[5, 6, 2]",Mildly Confusing
+272,defaults-deep,deep-defaults,sequence reordering,3,"[5, 6, 2]","[5, 6, 2]",Mildly Confusing
+621,mapbox,gmap,semantic substitution,3,"[5, 6, 2]","[5, 6, 2]",Mildly Confusing
+282,di,dir,grammatical substitution,4,"[5, 6, 1, 4]","[5, 6, 5]",Highly Confusing
+79,@types/got,@types/git,scope confusion,3,"[5, 5, 6]","[5, 5, 6]",Highly Confusing
+376,filewatcher,file-watcher,delimiter modification,3,"[5, 5, 6]","[5, 5, 6]",Highly Confusing
+881,runscript,run-script,delimiter modification,3,"[5, 5, 6]","[5, 5, 6]",Highly Confusing
+1000,tarr,torr,homographic replacement,3,"[5, 5, 6]","[5, 5, 6]",Highly Confusing
+1064,use-async-effect,useeffectasync,sequence reordering,3,"[5, 5, 6]","[5, 5, 6]",Highly Confusing
+176,calibre,caliber,alternate spelling,7,"[5, 5, 6, 5, 6]","[5, 6, 6]",Highly Confusing
+1018,tmpl,templ,homophonic similarity,4,"[5, 5, 6, 4]","[4, 6, 5]",Confusing
+109,any-base,ivy-company-base,prefix/ suffix augmentation,3,"[5, 5, 5]","[5, 5, 5]",Highly Confusing
+532,js-md5,md5-js,sequence reordering,3,"[5, 5, 5]","[5, 5, 5]",Highly Confusing
+963,store,store5,homophonic similarity,3,"[5, 5, 5]","[5, 5, 5]",Highly Confusing
+1100,window,windows,grammatical substitution,3,"[5, 5, 5]","[5, 5, 5]",Highly Confusing
+784,query-string,query-strings,grammatical substitution,4,"[5, 5, 5, 6]","[5, 6, 5]",Highly Confusing
+1061,urlgrey,urlgray,alternate spelling,6,"[5, 5, 5, 6, 6, 6]","[6, 6, 6]",Very Highly Confusing
+957,std,stb,homographic replacement,2,"[5, 5, 5, 5, 1, 1, 2, 2]","[1, 2, 1]",Not Confusing
+958,std,stb,homographic replacement,2,"[5, 5, 5, 5, 1, 1, 2, 2]","[5, 5, 5]",Highly Confusing
+705,objectorarray,object,simplification,4,"[5, 5, 5, 2]","[5, 5, 2]",Mildly Confusing
+406,git-log-parser,gitlog-parser,delimiter modification,3,"[5, 5, 4]","[5, 5, 4]",Confusing
+761,preact-compat,preact-compat2,homophonic similarity,4,"[5, 5, 4]","[5, 5, 4]",Confusing
+788,raf,ref,homographic replacement,3,"[5, 5, 4]","[5, 5, 4]",Confusing
+943,source-map-resolve,source-map-resolver,grammatical substitution,3,"[5, 5, 4]","[5, 5, 4]",Confusing
+1027,ts-enum-util,ts-enum-utils,grammatical substitution,3,"[5, 5, 4]","[5, 5, 4]",Confusing
+508,is_js,fs.js,delimiter modification,4,"[5, 5, 4, 4]","[4, 5, 5]",Confusing
+608,log-utils,logging-utils,semantic substitution,3,"[5, 5, 3]","[5, 5, 3]",Mildly Confusing
+823,react-quick-pinch-zoom,react-fast-pinch-zoom,semantic substitution,3,"[5, 5, 3]","[5, 5, 3]",Mildly Confusing
+318,emojis-list,emoji-list,grammatical substitution,4,"[5, 5, 3, 6]","[5, 3, 6]",Mildly Confusing
+178,capitalize,capitalise,alternate spelling,6,"[5, 5, 3, 3, 6, 6]","[6, 5, 3]",Mildly Confusing
+52,@primer/octicons-react,@githubprimer/octicons-react,scope confusion,4,"[5, 5, 3, 2]","[2, 5, 3]",Not Confusing
+115,argparse,arg-parse,delimiter modification,3,"[5, 5, 2]","[5, 5, 2]",Mildly Confusing
+735,pem,gem,homographic replacement,3,"[5, 5, 2]","[5, 5, 2]",Mildly Confusing
+856,replace,rplace,homophonic similarity,4,"[5, 5, 2]","[5, 5, 2]",Mildly Confusing
+297,dotenv,dotenvs,grammatical substitution,4,"[5, 5, 2, 6]","[5, 6, 6]",Highly Confusing
+695,now,gl-now,prefix/ suffix augmentation,4,"[5, 5, 2, 2]","[2, 5, 5]",Mildly Confusing
+864,resolve,resolver,grammatical substitution,4,"[5, 5, 2, 1]","[2, 5, 5]",Mildly Confusing
+932,size-limit,limit-size,sequence reordering,3,"[5, 5, 1]","[5, 5, 1]",Mildly Confusing
+9,@aws-sdk/client-ses,@aws-sdk/client-sms,scope confusion,4,"[5, 4, 6]","[5, 4, 6]",Confusing
+1123,zip-folder,zipfolder,delimiter modification,3,"[5, 4, 6]","[5, 4, 6]",Confusing
+174,cache-manager,cache,simplification,4,"[5, 4, 6, 5]","[5, 5, 4]",Confusing
+575,languagedetect,detect-language,sequence reordering,3,"[5, 4, 5]","[5, 4, 5]",Confusing
+765,prettyjson,pretty-cli,asemantic substitution,4,"[5, 4, 5]","[5, 4, 5]",Confusing
+1093,waypoints,waypoint,grammatical substitution,3,"[5, 4, 5]","[5, 4, 5]",Confusing
+347,exec-async,async-exec,sequence reordering,3,"[5, 4, 4]","[5, 4, 4]",Confusing
+693,normalize-url,normalize-uri,homographic replacement,3,"[5, 4, 3]","[5, 4, 3]",Mildly Confusing
+87,@types/redux-actions,@types/redux-action,scope confusion,4,"[5, 4, 3, 6]","[3, 6, 5]",Mildly Confusing
+63,@truffle/contract,truffle-contract,scope confusion,3,"[5, 4, 2]","[5, 4, 2]",Mildly Confusing
+459,hot-shots,hotshot,grammatical substitution,3,"[5, 4, 2]","[5, 4, 2]",Mildly Confusing
+887,safe-json-parse,json-parse-safe,sequence reordering,3,"[5, 4, 2]","[5, 4, 2]",Mildly Confusing
+1028,ts-log,logging-ts,semantic substitution,3,"[5, 4, 2]","[5, 4, 2]",Mildly Confusing
+45,@nuxt/babel-preset-app,@nuxtjs/babel-preset-app,scope confusion,4,"[5, 4, 2, 4]","[2, 5, 4]",Mildly Confusing
+890,sails-mysql,json2mysql,asemantic substitution,4,"[5, 4, 2, 1]","[2, 2, 2]",Not Confusing
+278,deprecation,deprecations,grammatical substitution,4,"[5, 3, 6, 2]","[5, 2, 6]",Mildly Confusing
+32,@jupyterlab/application,@jupyterlab-classic/application,scope confusion,4,"[5, 3, 5]","[5, 3, 5]",Mildly Confusing
+588,linebreak,breakline,sequence reordering,3,"[5, 3, 5]","[5, 3, 5]",Mildly Confusing
+766,private-ip,private-ips,grammatical substitution,3,"[5, 3, 5]","[5, 3, 5]",Mildly Confusing
+5,@auto-it/npm,@auto/npm,scope confusion,4,"[5, 3, 5, 6]","[6, 5, 6]",Highly Confusing
+102,angular,angular-strap,prefix/ suffix augmentation,4,"[5, 3, 5, 1]","[5, 3, 3]",Not Confusing
+339,eslint-webpack-plugin,eslint-plugin-nodejs,semantic substitution,4,"[5, 3, 4]","[5, 3, 4]",Mildly Confusing
+713,oneline,one-liner,grammatical substitution,4,"[5, 3, 4]","[5, 3, 4]",Mildly Confusing
+324,env-var,valenv,delimiter modification,4,"[5, 3, 4, 5]","[4, 4, 5]",Confusing
+121,array-range,array,simplification,4,"[5, 3, 4, 1]","[3, 3, 1]",Not Confusing
+481,influx,in-flux,delimiter modification,3,"[5, 3, 3]","[5, 3, 3]",Not Confusing
+934,slack-markdown,slack-mrkdwn,homophonic similarity,4,"[5, 3, 3, 4]","[3, 3, 3]",Not Confusing
+724,parse-uri,parse_url,homographic replacement,3,"[5, 3, 2]","[5, 3, 2]",Not Confusing
+759,preact,preact-mdl,prefix/ suffix augmentation,3,"[5, 3, 2]","[5, 3, 2]",Not Confusing
+738,phantomjs-prebuilt,phantomjs-prebuilt-macbre,prefix/ suffix augmentation,4,"[5, 3, 2, 2]","[5, 2, 2]",Not Confusing
+627,mathjax,mathjax3-react,prefix/ suffix augmentation,4,"[5, 3, 2, 1]","[2, 3, 2]",Not Confusing
+183,cidr-regex,whitespace-regex,asemantic substitution,4,"[5, 3, 1]","[5, 3, 1]",Not Confusing
+789,rafl,ra,simplification,3,"[5, 3, 1]","[5, 3, 1]",Not Confusing
+232,cron,oron,homographic replacement,4,"[5, 3, 1, 2]","[2, 5, 2]",Not Confusing
+803,react-confirm,validate-react,semantic substitution,4,"[5, 3, 1, 1]","[3, 3, 1]",Not Confusing
+918,serverless-offline,serverless-offline-kinesalite,prefix/ suffix augmentation,3,"[5, 2, 6]","[5, 2, 6]",Mildly Confusing
+16,@babel/helper-module-transforms,babel-helper-module-transforms,scope confusion,4,"[5, 2, 5]","[5, 2, 5]",Mildly Confusing
+130,astw,asfw,homographic replacement,3,"[5, 2, 5]","[5, 2, 5]",Mildly Confusing
+612,lrucache,cache-lru,sequence reordering,3,"[5, 2, 5]","[5, 2, 5]",Mildly Confusing
+697,npx,ngx,homographic replacement,3,"[5, 2, 5]","[5, 2, 5]",Mildly Confusing
+780,qlobber,globber,homographic replacement,3,"[5, 2, 5]","[5, 2, 5]",Mildly Confusing
+98,ajv-errors,ajv-error-messages,semantic substitution,4,"[5, 2, 5, 3]","[3, 5, 5]",Mildly Confusing
+205,component-classes,classes-component,sequence reordering,4,"[5, 2, 5, 3]","[5, 3, 5]",Mildly Confusing
+388,form-data,form,simplification,4,"[5, 2, 5, 3]","[2, 2, 5]",Not Confusing
+167,buffer-json,xml-buffer-tostring,semantic substitution,4,"[5, 2, 5, 1]","[5, 5, 1]",Mildly Confusing
+236,csprng,rng,simplification,4,"[5, 2, 4]","[5, 2, 4]",Mildly Confusing
+586,libmime,mime-lib,sequence reordering,3,"[5, 2, 4]","[5, 2, 4]",Mildly Confusing
+203,commitlint,commitlint-plugin-jira,prefix/ suffix augmentation,4,"[5, 2, 4, 5]","[5, 5, 2]",Mildly Confusing
+938,snyk,sinek,homophonic similarity,3,"[5, 2, 3]","[5, 2, 3]",Not Confusing
+798,rc-time-picker,rc-day-picker,semantic substitution,4,"[5, 2, 3, 2]","[2, 2, 2]",Not Confusing
+699,object-filter,filter-object,sequence reordering,3,"[5, 2, 2]","[5, 2, 2]",Not Confusing
+794,raven,refun,homophonic similarity,4,"[5, 2, 2]","[5, 2, 2]",Not Confusing
+303,dts-bundle,luabundle,asemantic substitution,4,"[5, 2, 2, 1]","[5, 5, 1]",Mildly Confusing
+359,fastdom,dom-easy,semantic substitution,4,"[5, 2, 2, 1]","[5, 2, 5]",Mildly Confusing
+869,retire,readdir,homophonic similarity,4,"[5, 2, 2, 1]","[5, 2, 5]",Mildly Confusing
+523,jquery-jsonview,onview,simplification,4,"[5, 2, 1]","[5, 2, 1]",Not Confusing
+703,object.map,map-object,sequence reordering,3,"[5, 2, 1]","[5, 2, 1]",Not Confusing
+19,@ethersproject/wallet,@exchain-ethersproject/wallet,scope confusion,3,"[5, 1, 6]","[5, 1, 6]",Mildly Confusing
+39,@material/notched-outline,@arterial/notched-outline,scope confusion,4,"[5, 1, 6]","[5, 1, 6]",Mildly Confusing
+404,get-port,get-ports,grammatical substitution,4,"[5, 1, 6]","[5, 1, 6]",Mildly Confusing
+162,browser-fingerprint,browser_fingerprint,delimiter modification,4,"[5, 1, 5]","[5, 1, 5]",Mildly Confusing
+496,is-class,js-class,homographic replacement,3,"[5, 1, 5]","[5, 1, 5]",Mildly Confusing
+199,colorful,colourful,alternate spelling,7,"[5, 1, 5, 6, 6, 6]","[5, 5, 6]",Highly Confusing
+356,faker,fakerr,homophonic similarity,4,"[5, 1, 5, 5]","[5, 5, 5]",Highly Confusing
+626,mathjax,mathjax-node,prefix/ suffix augmentation,4,"[5, 1, 5, 3]","[5, 3, 1]",Not Confusing
+80,@types/has,@types/hbs,scope confusion,4,"[5, 1, 5, 2]","[5, 2, 1]",Not Confusing
+463,htmlhint,html-hint,delimiter modification,4,"[5, 1, 5, 2]","[5, 5, 2]",Mildly Confusing
+613,lscache,cache,simplification,3,"[5, 1, 4]","[5, 1, 4]",Mildly Confusing
+797,rc-steps,rc-actions,asemantic substitution,3,"[5, 1, 3]","[5, 1, 3]",Not Confusing
+1059,url-toolkit,js-toolkit,asemantic substitution,3,"[5, 1, 3]","[5, 1, 3]",Not Confusing
+50,@phosphor/properties,phosphor-properties,scope confusion,4,"[5, 1, 2]","[5, 1, 2]",Not Confusing
+661,mqtt,mykad,homophonic similarity,3,"[5, 1, 2]","[5, 1, 2]",Not Confusing
+901,scroll,sqroll,homophonic similarity,3,"[5, 1, 2]","[5, 1, 2]",Not Confusing
+919,sha.js,shpjs,delimiter modification,3,"[5, 1, 2]","[5, 1, 2]",Not Confusing
+358,fast-safe-stringify,stringify,simplification,4,"[5, 1, 2, 3]","[3, 5, 5]",Mildly Confusing
+739,photoswipe,swipe,simplification,4,"[5, 1, 1, 6]","[5, 1, 1]",Not Confusing
+653,mockjs,mock.js,delimiter modification,3,"[4, 6, 6]","[4, 6, 6]",Confusing
+180,chai-arrays,chai-array,grammatical substitution,4,"[4, 6, 6, 3]","[6, 6, 6]",Very Highly Confusing
+108,ansicolor,ansicolour,alternate spelling,7,"[4, 6, 6, 1, 4, 3, 5]","[4, 6, 5]",Confusing
+65,@turf/intersect,turf-intersect,scope confusion,3,"[4, 6, 5]","[4, 6, 5]",Confusing
+240,css-to-xpath,csstoxpath,delimiter modification,4,"[4, 6, 5]","[4, 6, 5]",Confusing
+473,ibm-watson,ibmwatson,delimiter modification,3,"[4, 6, 5]","[4, 6, 5]",Confusing
+884,s3-stream-upload,s3-upload-streams,grammatical substitution,3,"[4, 6, 5]","[4, 6, 5]",Confusing
+204,component-bind,bind-component,sequence reordering,3,"[4, 6, 4]","[4, 6, 4]",Confusing
+658,mongodb,mangodb,homographic replacement,3,"[4, 6, 3]","[4, 6, 3]",Mildly Confusing
+351,express-basic-auth,express-basicauth,delimiter modification,4,"[4, 6, 3, 4]","[4, 6, 3]",Mildly Confusing
+296,dot-object,object-dot,sequence reordering,3,"[4, 6, 2]","[4, 6, 2]",Mildly Confusing
+883,s3-deploy,ssdeploy,delimiter modification,3,"[4, 6, 2]","[4, 6, 2]",Mildly Confusing
+702,object.assign,object,simplification,3,"[4, 6, 1]","[4, 6, 1]",Mildly Confusing
+200,colors,colours,alternate spelling,7,"[4, 5, 6, 6, 6, 6, 4]","[6, 6, 6]",Very Highly Confusing
+2,@angular/common,@angular-contrib/common,scope confusion,4,"[4, 5, 6, 5]","[5, 5, 5]",Highly Confusing
+357,fast-bind,bind-fast,sequence reordering,3,"[4, 5, 5]","[4, 5, 5]",Confusing
+689,node.extend,extend-node,sequence reordering,3,"[4, 5, 5]","[4, 5, 5]",Confusing
+775,proxy,proxys,grammatical substitution,3,"[4, 5, 5]","[4, 5, 5]",Confusing
+818,react-native-permissions,react-native-permission,grammatical substitution,3,"[4, 5, 5]","[4, 5, 5]",Confusing
+996,tar,tor,homographic replacement,3,"[4, 5, 5]","[4, 5, 5]",Confusing
+275,del,noodel,prefix/ suffix augmentation,4,"[4, 5, 4]","[4, 5, 4]",Confusing
+936,sleep-promise,promise-sleep,sequence reordering,3,"[4, 5, 4]","[4, 5, 4]",Confusing
+194,color,colorjs.io,prefix/ suffix augmentation,4,"[4, 5, 4, 1]","[4, 4, 4]",Confusing
+568,keycloak-js,keycloak,simplification,4,"[4, 5, 3, 4]","[5, 4, 4]",Confusing
+950,squeak,squeakeasy,prefix/ suffix augmentation,4,"[4, 5, 3, 2]","[4, 5, 5]",Confusing
+8,@aws-cdk/aws-ssm,@aws-cdk/aws-sso,scope confusion,4,"[4, 5, 3, 1]","[1, 1, 1]",Not Confusing
+201,colour,c0lor,homophonic similarity,4,"[4, 5, 2]","[4, 5, 2]",Mildly Confusing
+207,compress,gql-compress,prefix/ suffix augmentation,4,"[4, 5, 2]","[4, 5, 2]",Mildly Confusing
+362,fastify-websocket,fastify-etag,asemantic substitution,4,"[4, 5, 2]","[4, 5, 2]",Mildly Confusing
+466,http-server,server-http,sequence reordering,3,"[4, 5, 2]","[4, 5, 2]",Mildly Confusing
+541,jsii,is-js,delimiter modification,4,"[4, 5, 2]","[4, 5, 2]",Mildly Confusing
+597,lodash,lowdash,homophonic similarity,3,"[4, 5, 2]","[4, 5, 2]",Mildly Confusing
+906,sd-notify,notify,simplification,3,"[4, 5, 2]","[4, 5, 2]",Mildly Confusing
+281,detect-conflict,detect-conflicts,grammatical substitution,4,"[4, 5, 1]","[4, 5, 1]",Mildly Confusing
+748,pn,qn,homographic replacement,3,"[4, 5, 1]","[4, 5, 1]",Mildly Confusing
+840,read-metadata,readjson,asemantic substitution,3,"[4, 5, 1]","[4, 5, 1]",Mildly Confusing
+846,reduce-object,object-reduce,sequence reordering,3,"[4, 5, 1]","[4, 5, 1]",Mildly Confusing
+366,fetch,fetchr,grammatical substitution,4,"[4, 5, 1, 3]","[4, 4, 1]",Mildly Confusing
+618,make-error,createerror,semantic substitution,4,"[4, 5, 1, 3]","[4, 1, 5]",Mildly Confusing
+967,stream-buffers,streambuffers,delimiter modification,3,"[4, 4, 6]","[4, 4, 6]",Confusing
+432,graphql-redis-subscriptions,graphql-rabbitmq-subscriptions,semantic substitution,4,"[4, 4, 6, 4]","[4, 4, 4]",Confusing
+290,dnscache,dns-cache,delimiter modification,3,"[4, 4, 5]","[4, 4, 5]",Confusing
+632,merge-defaults,merge-options-default,semantic substitution,3,"[4, 4, 5]","[4, 4, 5]",Confusing
+261,datauri,dataurl,homographic replacement,3,"[4, 4, 4]","[4, 4, 4]",Confusing
+517,jest-transform-yaml,jest-yaml-transform,sequence reordering,3,"[4, 4, 4]","[4, 4, 4]",Confusing
+563,jspath,path.js,sequence reordering,3,"[4, 4, 4]","[4, 4, 4]",Confusing
+309,easy-peasy,quick,semantic substitution,4,"[4, 4, 3]","[4, 4, 3]",Mildly Confusing
+331,es-check,tscheck,delimiter modification,4,"[4, 4, 3]","[4, 4, 3]",Mildly Confusing
+465,http-proxy,https-proxy,grammatical substitution,4,"[4, 4, 3]","[4, 4, 3]",Mildly Confusing
+740,php-serialize,serializeapp,asemantic substitution,3,"[4, 4, 3]","[4, 4, 3]",Mildly Confusing
+813,react-mathjax,mathjax-react,sequence reordering,3,"[4, 4, 3]","[4, 4, 3]",Mildly Confusing
+33,@koa/cors,@goa/cors,scope confusion,4,"[4, 4, 3, 2]","[4, 2, 4]",Mildly Confusing
+591,load-cfg,load-js,asemantic substitution,3,"[4, 4, 2]","[4, 4, 2]",Mildly Confusing
+595,lodash,lodash.first,prefix/ suffix augmentation,4,"[4, 4, 2]","[4, 4, 2]",Mildly Confusing
+787,qw,pw,homographic replacement,3,"[4, 4, 2]","[4, 4, 2]",Mildly Confusing
+161,bower,bowe,grammatical substitution,4,"[4, 4, 1]","[4, 4, 1]",Mildly Confusing
+536,js-xdr,xd.js,grammatical substitution,4,"[4, 4, 1]","[4, 4, 1]",Mildly Confusing
+14,@azure/core-client,@azure-rest/core-client,scope confusion,4,"[4, 3, 5]","[4, 3, 5]",Mildly Confusing
+526,jquery.cookie,cookie_js,semantic substitution,3,"[4, 3, 5]","[4, 3, 5]",Mildly Confusing
+609,logrocket,rocketlog,sequence reordering,3,"[4, 3, 5]","[4, 3, 5]",Mildly Confusing
+821,react-page-visibility,react-page,simplification,3,"[4, 3, 5]","[4, 3, 5]",Mildly Confusing
+159,bootstrap-css-only,bootstrap-only-css,sequence reordering,4,"[4, 3, 5, 4]","[4, 4, 4]",Confusing
+212,conf,corf,homographic replacement,3,"[4, 3, 4]","[4, 3, 4]",Mildly Confusing
+259,data-urls,dataurl,grammatical substitution,4,"[4, 3, 4]","[4, 3, 4]",Mildly Confusing
+267,db-migrate-pg,pg-db-migrate,sequence reordering,3,"[4, 3, 4]","[4, 3, 4]",Mildly Confusing
+914,semver-utils,sass-semver,asemantic substitution,3,"[4, 3, 4]","[4, 3, 4]",Mildly Confusing
+1102,winston,winston-sugar,prefix/ suffix augmentation,3,"[4, 3, 4]","[4, 3, 4]",Mildly Confusing
+700,object-refs,ref-object,grammatical substitution,4,"[4, 3, 4, 5]","[3, 4, 3]",Not Confusing
+170,builder-util,utils-builder,grammatical substitution,4,"[4, 3, 4, 4]","[4, 4, 3]",Mildly Confusing
+755,postcss-sass,sass-imports,asemantic substitution,4,"[4, 3, 4, 2]","[4, 4, 4]",Confusing
+925,simple-git,simple-git-changelog,prefix/ suffix augmentation,4,"[4, 3, 4, 2]","[4, 3, 4]",Mildly Confusing
+90,@ucast/core,@bcase/core,scope confusion,3,"[4, 3, 3]","[4, 3, 3]",Not Confusing
+776,pure-rand,pure,simplification,3,"[4, 3, 3]","[4, 3, 3]",Not Confusing
+137,axios-hooks,axios-actions,asemantic substitution,5,"[4, 3, 3, 5, 1]","[1, 5, 4]",Mildly Confusing
+26,@graphql-toolkit/core,@graphql-tools/core,scope confusion,4,"[4, 3, 2]","[4, 3, 2]",Not Confusing
+501,is-map,map,simplification,3,"[4, 3, 2]","[4, 3, 2]",Not Confusing
+557,json2mq,mql2,asemantic substitution,4,"[4, 3, 2]","[4, 3, 2]",Not Confusing
+531,js-logger,fslogger,delimiter modification,4,"[4, 3, 2, 4]","[2, 2, 4]",Not Confusing
+535,js-types,typer.js,delimiter modification,4,"[4, 3, 2, 3]","[3, 4, 2]",Not Confusing
+640,micro,rubik-micro,prefix/ suffix augmentation,4,"[4, 3, 2, 3]","[3, 2, 3]",Not Confusing
+648,mock-fs,mockfs,delimiter modification,3,"[4, 3, 1]","[4, 3, 1]",Not Confusing
+666,mux.js,bpmux,asemantic substitution,3,"[4, 3, 1]","[4, 3, 1]",Not Confusing
+197,color-rgba,colour-rgba,alternate spelling,7,"[4, 3, 1, 6, 3, 5]","[3, 6, 4]",Mildly Confusing
+398,fstream,sscanf,semantic substitution,4,"[4, 3, 1, 3]","[3, 3, 3]",Not Confusing
+389,formik,form,simplification,4,"[4, 3, 1, 1]","[1, 1, 1]",Not Confusing
+665,mustache,moustache,alternate spelling,6,"[4, 2, 6, 5, 6, 2]","[2, 5, 6]",Mildly Confusing
+1078,videojs-ie8,videojs-ima,asemantic substitution,4,"[4, 2, 6, 3]","[3, 3, 6]",Not Confusing
+271,deep-object-diff,deep-diff-object,sequence reordering,3,"[4, 2, 5]","[4, 2, 5]",Mildly Confusing
+445,gulp-file,gulpfile,delimiter modification,4,"[4, 2, 5]","[4, 2, 5]",Mildly Confusing
+710,odata-parser,@odata/parser,scope confusion,3,"[4, 2, 5]","[4, 2, 5]",Mildly Confusing
+790,random,ml-random,prefix/ suffix augmentation,3,"[4, 2, 5]","[4, 2, 5]",Mildly Confusing
+139,babel-jest,buble-jest,homophonic similarity,4,"[4, 2, 5, 5]","[5, 4, 5]",Confusing
+915,semver-utils,semver-dedupe,asemantic substitution,3,"[4, 2, 4]","[4, 2, 4]",Mildly Confusing
+1103,worker-timers,worker-timer,grammatical substitution,3,"[4, 2, 4]","[4, 2, 4]",Mildly Confusing
+314,email-templates,email-template,grammatical substitution,4,"[4, 2, 4, 6]","[4, 4, 2]",Mildly Confusing
+701,object-values,value-object,grammatical substitution,4,"[4, 2, 4, 6]","[2, 4, 4]",Mildly Confusing
+13,@aws-sdk/client-sts,@aws-sdk/client-sms,scope confusion,4,"[4, 2, 4, 2]","[2, 2, 4]",Not Confusing
+579,lazy.js,lice-js,homophonic similarity,4,"[4, 2, 4, 1]","[1, 1, 1]",Not Confusing
+89,@types/yup,@types/yui,scope confusion,3,"[4, 2, 3]","[4, 2, 3]",Not Confusing
+148,base64-js,base64-emoji,asemantic substitution,4,"[4, 2, 3]","[4, 2, 3]",Not Confusing
+209,compute-dims,compute,simplification,4,"[4, 2, 3]","[4, 2, 3]",Not Confusing
+27,@iconify/icons-mdi,@iconify/icons-mi,scope confusion,4,"[4, 2, 3, 4]","[4, 3, 4]",Mildly Confusing
+165,buffer,as-buffer,prefix/ suffix augmentation,4,"[4, 2, 3, 3]","[3, 3, 4]",Not Confusing
+227,create-error-class,error-class,simplification,4,"[4, 2, 3, 3]","[2, 4, 4]",Mildly Confusing
+37,@material/dialog,@arterial/dialog,scope confusion,3,"[4, 2, 2]","[4, 2, 2]",Not Confusing
+458,hooks,hocs,homophonic similarity,4,"[4, 2, 2]","[4, 2, 2]",Not Confusing
+482,ini,i-ui,homographic replacement,3,"[4, 2, 2]","[4, 2, 2]",Not Confusing
+533,js-stringify,stringify,simplification,3,"[4, 2, 2]","[4, 2, 2]",Not Confusing
+448,hapi-swagger,hippie-swagger,homophonic similarity,4,"[4, 2, 2, 4]","[2, 2, 2]",Not Confusing
+758,pouchdb-errors,oauth2-errors,asemantic substitution,4,"[4, 2, 2, 3]","[3, 3, 4]",Not Confusing
+893,sanitize-html,ng-sanitize,asemantic substitution,4,"[4, 2, 2, 2]","[4, 4, 2]",Mildly Confusing
+896,scroll,left-scroll,prefix/ suffix augmentation,4,"[4, 2, 2, 2]","[4, 2, 2]",Not Confusing
+354,ext-name,app-name,asemantic substitution,4,"[4, 2, 2, 1]","[4, 4, 4]",Confusing
+346,events,vue-tabevents,prefix/ suffix augmentation,4,"[4, 2, 1]","[4, 2, 1]",Not Confusing
+1023,tree-kill,freekill,homographic replacement,3,"[4, 2, 1]","[4, 2, 1]",Not Confusing
+156,bl,b1,homographic replacement,4,"[4, 2, 1, 2]","[2, 2, 2]",Not Confusing
+453,hawk,hike,homophonic similarity,4,"[4, 2, 1, 2]","[2, 2, 1]",Not Confusing
+503,is-node,node.fs,delimiter modification,4,"[4, 2, 1, 2]","[2, 2, 4]",Not Confusing
+857,require,moog-require,prefix/ suffix augmentation,4,"[4, 1, 6]","[4, 1, 6]",Mildly Confusing
+831,react-sidebar,sidebar,simplification,3,"[4, 1, 5]","[4, 1, 5]",Mildly Confusing
+20,@expo/json-file,@exponent/json-file,scope confusion,4,"[4, 1, 5, 4]","[1, 5, 1]",Not Confusing
+401,gar,garden,prefix/ suffix augmentation,4,"[4, 1, 5, 2]","[1, 4, 5]",Mildly Confusing
+101,analytics-utils,analyticscommons,asemantic substitution,4,"[4, 1, 4, 3]","[4, 4, 4]",Confusing
+18,@emotion/utils,@emotionagency/utils,scope confusion,3,"[4, 1, 3]","[4, 1, 3]",Not Confusing
+704,object.values,value-object,grammatical substitution,3,"[4, 1, 3]","[4, 1, 3]",Not Confusing
+1033,tty,smitty,prefix/ suffix augmentation,3,"[4, 1, 3]","[4, 1, 3]",Not Confusing
+1013,ticky,taco,homophonic similarity,4,"[4, 1, 3, 3]","[4, 4, 3]",Mildly Confusing
+332,escape-quotes,unicode-escape,asemantic substitution,4,"[4, 1, 3, 1]","[3, 3, 3]",Not Confusing
+412,github-buttons,inuit-buttons,asemantic substitution,4,"[4, 1, 3, 1]","[1, 4, 4]",Mildly Confusing
+446,gzip-size,lists-size,asemantic substitution,4,"[4, 1, 2]","[4, 1, 2]",Not Confusing
+585,level,level-proxy,prefix/ suffix augmentation,4,"[4, 1, 2]","[4, 1, 2]",Not Confusing
+7,@aws-cdk/aws-kms,@aws-cdk/aws-fms,scope confusion,4,"[4, 1, 2, 3]","[4, 2, 1]",Not Confusing
+800,react,reqid,homophonic similarity,4,"[4, 1, 2, 1]","[1, 4, 2]",Not Confusing
+1096,web3,web3w,homophonic similarity,3,"[4, 1, 1]","[4, 1, 1]",Not Confusing
+577,later,before,semantic substitution,4,"[4, 1, 1, 5]","[4, 1, 4]",Mildly Confusing
+641,middy,motou,homophonic similarity,4,"[4, 1, 1, 3]","[3, 1, 3]",Not Confusing
+897,scroll,scoped-scroll,prefix/ suffix augmentation,4,"[4, 1, 1, 3]","[3, 1, 4]",Not Confusing
+214,console,conceal,homophonic similarity,4,"[4, 1, 1, 1]","[1, 1, 4]",Not Confusing
+706,oboe,saxophone,semantic substitution,4,"[4, 1, 1, 1]","[4, 4, 4]",Confusing
+424,google-map-react,react-maps-google,grammatical substitution,4,"[3, 6, 6, 6]","[6, 6, 6]",Very Highly Confusing
+486,install,instal,alternate spelling,6,"[3, 6, 6, 4, 1, 2]","[1, 6, 2]",Not Confusing
+983,supports-color,support-color,grammatical substitution,4,"[3, 6, 6, 1]","[3, 3, 6]",Not Confusing
+142,babel-watch,watch-babel,sequence reordering,3,"[3, 6, 5]","[3, 6, 5]",Mildly Confusing
+477,image-webpack-loader,webpack-image-loader,sequence reordering,3,"[3, 6, 5]","[3, 6, 5]",Mildly Confusing
+828,react-router-hash-link,react-router-hashlink,delimiter modification,3,"[3, 6, 5]","[3, 6, 5]",Mildly Confusing
+1098,webpack-bugsnag-plugins,webpack-bugsnag-plugin,grammatical substitution,3,"[3, 6, 5]","[3, 6, 5]",Mildly Confusing
+484,inline-style-expand-shorthand,inline-style,simplification,4,"[3, 6, 5, 4]","[4, 3, 4]",Mildly Confusing
+751,postal,postalworker,prefix/ suffix augmentation,4,"[3, 6, 5, 4]","[6, 4, 6]",Confusing
+157,body,body-meta,prefix/ suffix augmentation,4,"[3, 6, 4, 4]","[4, 4, 6]",Confusing
+155,binary-downloader,js-binary,asemantic substitution,4,"[3, 6, 4, 1]","[3, 6, 1]",Not Confusing
+36,@material-icons/svg,material-icons-svg,scope confusion,4,"[3, 6, 3]","[3, 6, 3]",Not Confusing
+519,jora,jona,homographic replacement,3,"[3, 6, 2]","[3, 6, 2]",Not Confusing
+900,scroll,scrollup,prefix/ suffix augmentation,3,"[3, 6, 2]","[3, 6, 2]",Not Confusing
+731,paths-js,path.js,grammatical substitution,3,"[3, 6, 1]","[3, 6, 1]",Not Confusing
+433,graphql-scalars,graphql-scalar,grammatical substitution,3,"[3, 5, 6]","[3, 5, 6]",Mildly Confusing
+570,koa-proxies,koa-proxy,grammatical substitution,4,"[3, 5, 6]","[3, 5, 6]",Mildly Confusing
+772,promise-queue,promiser-queue,grammatical substitution,3,"[3, 5, 6]","[3, 5, 6]",Mildly Confusing
+773,promise-request-retry,request-promise-retry,sequence reordering,3,"[3, 5, 6]","[3, 5, 6]",Mildly Confusing
+851,regression,ml-logistic-regression,prefix/ suffix augmentation,3,"[3, 5, 6]","[3, 5, 6]",Mildly Confusing
+430,graphql-cli,graph,simplification,4,"[3, 5, 6, 3]","[3, 6, 5]",Mildly Confusing
+491,ipx,x-ip,delimiter modification,4,"[3, 5, 5]","[3, 5, 5]",Mildly Confusing
+619,makeerror,createerror,semantic substitution,3,"[3, 5, 5]","[3, 5, 5]",Mildly Confusing
+678,ng2-cookies,ng2-cookie,grammatical substitution,4,"[3, 5, 5, 5]","[5, 5, 5]",Highly Confusing
+571,koa-route,koa-routes,grammatical substitution,4,"[3, 5, 5, 2]","[2, 2, 5]",Not Confusing
+48,@parcel/core,@mareel/core,scope confusion,4,"[3, 5, 4]","[3, 5, 4]",Mildly Confusing
+727,parseurl,parse_url,delimiter modification,3,"[3, 5, 4]","[3, 5, 4]",Mildly Confusing
+779,qj,ql,homographic replacement,3,"[3, 5, 4]","[3, 5, 4]",Mildly Confusing
+462,html-webpack-plugin,webpack-html-plugin,sequence reordering,3,"[3, 5, 3]","[3, 5, 3]",Not Confusing
+439,grpc,etcd-grpc,prefix/ suffix augmentation,4,"[3, 5, 3, 4]","[3, 3, 3]",Not Confusing
+750,post-robot,post,simplification,4,"[3, 5, 3, 4]","[5, 4, 3]",Mildly Confusing
+189,cli-color,colour-cli,alternate spelling,7,"[3, 5, 3, 1, 3, 6]","[5, 6, 5]",Highly Confusing
+287,dimport,bimport,homographic replacement,3,"[3, 5, 2]","[3, 5, 2]",Not Confusing
+226,create-error,createerror,delimiter modification,4,"[3, 5, 2, 5]","[5, 5, 3]",Mildly Confusing
+12,@aws-sdk/client-ssm,@aws-sdk/client-sms,scope confusion,4,"[3, 5, 2, 2]","[2, 2, 5]",Not Confusing
+676,ng-recaptcha,ng-captcha,semantic substitution,3,"[3, 4, 6]","[3, 4, 6]",Mildly Confusing
+679,ngx-countdown,anim-countdown,asemantic substitution,3,"[3, 4, 6]","[3, 4, 6]",Mildly Confusing
+35,@lingui/cli,lingui-cli,scope confusion,4,"[3, 4, 5]","[3, 4, 5]",Mildly Confusing
+677,ng2-charts,ng2charts,delimiter modification,4,"[3, 4, 5, 5]","[5, 5, 4]",Confusing
+413,gitlab,nest-gitlab,prefix/ suffix augmentation,4,"[3, 4, 5, 1]","[5, 1, 5]",Mildly Confusing
+722,parse-srcset,srcset-parse,sequence reordering,3,"[3, 4, 4]","[3, 4, 4]",Mildly Confusing
+774,prop-types,prop-styles,semantic substitution,3,"[3, 4, 4]","[3, 4, 4]",Mildly Confusing
+509,isarray,in-array,delimiter modification,4,"[3, 4, 4, 2]","[4, 4, 4]",Confusing
+882,rx-lite,rxline,delimiter modification,3,"[3, 4, 3]","[3, 4, 3]",Not Confusing
+1114,xpath.js,xpath2.js,homophonic similarity,3,"[3, 4, 3]","[3, 4, 3]",Not Confusing
+74,@types/css,@types/cxs,scope confusion,3,"[3, 4, 2]","[3, 4, 2]",Not Confusing
+326,envconf,flconf,asemantic substitution,4,"[3, 4, 2]","[3, 4, 2]",Not Confusing
+525,jquery-validation,vue-validation,asemantic substitution,3,"[3, 4, 2]","[3, 4, 2]",Not Confusing
+992,tape,taapi,homophonic similarity,3,"[3, 4, 2]","[3, 4, 2]",Not Confusing
+456,hexo,hooox,homophonic similarity,4,"[3, 4, 2, 2]","[2, 2, 3]",Not Confusing
+559,jsonp,json2po,homophonic similarity,4,"[3, 4, 2, 2]","[4, 2, 3]",Not Confusing
+46,@openzeppelin/test-helpers,openzeppelin-test-helpers,scope confusion,4,"[3, 4, 1]","[3, 4, 1]",Not Confusing
+631,mdurl,url-cmd,delimiter modification,4,"[3, 4, 1]","[3, 4, 1]",Not Confusing
+44,@ngx-formly/material,@ngx-form/material,scope confusion,4,"[3, 3, 6]","[3, 3, 6]",Not Confusing
+256,dart-sass,sass-dart,sequence reordering,3,"[3, 3, 6]","[3, 3, 6]",Not Confusing
+528,js-cookie,cookies.js,grammatical substitution,4,"[3, 3, 6, 6]","[6, 6, 3]",Mildly Confusing
+549,json-loader,sqlite-loader,semantic substitution,4,"[3, 3, 6, 3]","[3, 3, 6]",Not Confusing
+455,helmet,helnet,homographic replacement,3,"[3, 3, 5]","[3, 3, 5]",Not Confusing
+573,koa-static,koa-static-router,prefix/ suffix augmentation,3,"[3, 3, 5]","[3, 3, 5]",Not Confusing
+1086,vue-markdown,vue-markdown2,homophonic similarity,3,"[3, 3, 5]","[3, 3, 5]",Not Confusing
+337,eslint-plugin-jquery,eslint-plugin-javascript,semantic substitution,4,"[3, 3, 4]","[3, 3, 4]",Not Confusing
+410,git-url-parse,parse-git-url,sequence reordering,3,"[3, 3, 4]","[3, 3, 4]",Not Confusing
+1069,util-inspect,fs-inspect,asemantic substitution,4,"[3, 3, 4, 5]","[3, 3, 3]",Not Confusing
+93,@vuepress/plugin-medium-zoom,vuepress-plugin-medium-zoom,scope confusion,3,"[3, 3, 3]","[3, 3, 3]",Not Confusing
+210,concat-stream,co-concat-stream,prefix/ suffix augmentation,3,"[3, 3, 3]","[3, 3, 3]",Not Confusing
+984,svelte-hmr,svelte-dts,asemantic substitution,3,"[3, 3, 3]","[3, 3, 3]",Not Confusing
+991,tailwindcss,tailwindcss-no-scrollbar,prefix/ suffix augmentation,3,"[3, 3, 3]","[3, 3, 3]",Not Confusing
+1065,use-http,usey-http,homophonic similarity,3,"[3, 3, 3]","[3, 3, 3]",Not Confusing
+1105,xhr,flexhr,prefix/ suffix augmentation,3,"[3, 3, 3]","[3, 3, 3]",Not Confusing
+886,sade,sidh,homophonic similarity,3,"[3, 3, 2]","[3, 3, 2]",Not Confusing
+308,eases,es,simplification,3,"[3, 3, 1]","[3, 3, 1]",Not Confusing
+1084,vue-lodash,odash,simplification,3,"[3, 3, 1]","[3, 3, 1]",Not Confusing
+233,cron-validator,moleculer-cron,asemantic substitution,4,"[3, 3, 1, 2]","[3, 2, 3]",Not Confusing
+248,csv-parser,parse-csv,grammatical substitution,4,"[3, 2, 6, 3]","[6, 3, 3]",Not Confusing
+556,json2md,json2-mod,delimiter modification,3,"[3, 2, 5]","[3, 2, 5]",Not Confusing
+889,sails-generate,sails-generate-static,prefix/ suffix augmentation,4,"[3, 2, 5, 6]","[6, 2, 5]",Mildly Confusing
+28,@ionic/cli,ionic-cli,scope confusion,4,"[3, 2, 5, 5]","[5, 3, 5]",Mildly Confusing
+147,base64-arraybuffer,arraybuffer-base64,sequence reordering,4,"[3, 2, 5, 5]","[2, 3, 2]",Not Confusing
+741,picture-tuber,picture-tube,grammatical substitution,4,"[3, 2, 5, 5]","[3, 5, 2]",Not Confusing
+836,react-time-picker,react-time,simplification,4,"[3, 2, 5, 4]","[3, 3, 3]",Not Confusing
+266,datejs,ts-date,delimiter modification,4,"[3, 2, 5, 3]","[2, 5, 3]",Not Confusing
+443,gud,guq,homographic replacement,4,"[3, 2, 5, 1]","[3, 5, 3]",Not Confusing
+365,fela,fillo,homophonic similarity,3,"[3, 2, 4]","[3, 2, 4]",Not Confusing
+924,simple-dom,dom-easy,semantic substitution,3,"[3, 2, 4]","[3, 2, 4]",Not Confusing
+3,@angular/core,@angular-mdl/core,scope confusion,4,"[3, 2, 4, 4]","[4, 3, 4]",Mildly Confusing
+1,@angular-redux/store,@angular-redux2/store,scope confusion,5,"[3, 2, 4, 2, 1]","[2, 2, 2]",Not Confusing
+408,git-rev-sync,git-rev,simplification,4,"[3, 2, 4, 1]","[2, 4, 1]",Not Confusing
+301,draft-js,craftjs,delimiter modification,4,"[3, 2, 3]","[3, 2, 3]",Not Confusing
+1047,unidiff,unihooks,asemantic substitution,3,"[3, 2, 3]","[3, 2, 3]",Not Confusing
+54,@remote-ui/core,@remote.it/core,scope confusion,4,"[3, 2, 3, 5]","[5, 3, 3]",Not Confusing
+382,firebase-functions,firebase-functions-redirects,prefix/ suffix augmentation,4,"[3, 2, 3, 5]","[3, 3, 2]",Not Confusing
+764,prettyjson,json-nice,semantic substitution,4,"[3, 2, 3, 1]","[2, 1, 3]",Not Confusing
+330,errno,noerr,sequence reordering,3,"[3, 2, 2]","[3, 2, 2]",Not Confusing
+668,napi-macros,mc-macros,asemantic substitution,4,"[3, 2, 2]","[3, 2, 2]",Not Confusing
+837,react-time-picker,react-year-picker,semantic substitution,3,"[3, 2, 2]","[3, 2, 2]",Not Confusing
+913,semver-intersect,circles-intersect,asemantic substitution,3,"[3, 2, 2]","[3, 2, 2]",Not Confusing
+948,splitpanes,lodash.split,asemantic substitution,3,"[3, 2, 2]","[3, 2, 2]",Not Confusing
+416,gl,gls,grammatical substitution,4,"[3, 2, 2, 6]","[6, 2, 3]",Not Confusing
+221,copyfiles,files,simplification,4,"[3, 2, 2, 3]","[2, 3, 3]",Not Confusing
+4,@antv/g6-plugin,@antv/f6-plugin,scope confusion,5,"[3, 2, 2, 3, 1]","[2, 3, 2]",Not Confusing
+855,replace,replace-buffer,prefix/ suffix augmentation,4,"[3, 2, 2, 2]","[3, 2, 2]",Not Confusing
+208,compress-commons,prosemirror-compress,asemantic substitution,4,"[3, 2, 2, 1]","[2, 2, 2]",Not Confusing
+381,find-pkg,get-pkg,semantic substitution,4,"[3, 2, 1]","[3, 2, 1]",Not Confusing
+360,fastify-multipart,fastify-cli,asemantic substitution,4,"[3, 2, 1, 1]","[1, 1, 2]",Not Confusing
+325,envalid,valid-env,delimiter modification,4,"[3, 1, 6, 1]","[1, 1, 1]",Not Confusing
+53,@reach/router,reach-router,scope confusion,4,"[3, 1, 5]","[3, 1, 5]",Not Confusing
+399,g-i-s,gls,homographic replacement,3,"[3, 1, 5]","[3, 1, 5]",Not Confusing
+617,mailgun.js,mail,simplification,3,"[3, 1, 5]","[3, 1, 5]",Not Confusing
+124,array-sort,sort,simplification,4,"[3, 1, 4]","[3, 1, 4]",Not Confusing
+134,autosize,autosizer,grammatical substitution,4,"[3, 1, 4]","[3, 1, 4]",Not Confusing
+283,diacritic,diacriticless,prefix/ suffix augmentation,4,"[3, 1, 4]","[3, 1, 4]",Not Confusing
+1016,title,talt,homophonic similarity,3,"[3, 1, 4]","[3, 1, 4]",Not Confusing
+495,is-buffer,tsbuffer,delimiter modification,4,"[3, 1, 4, 3]","[3, 3, 3]",Not Confusing
+981,stylus,styluss,grammatical substitution,3,"[3, 1, 3]","[3, 1, 3]",Not Confusing
+1106,xml-crypto,xmlserializer,asemantic substitution,3,"[3, 1, 3]","[3, 1, 3]",Not Confusing
+100,ammo,emmo,homographic replacement,4,"[3, 1, 3, 4]","[1, 3, 3]",Not Confusing
+409,git-source,sourcebit,delimiter modification,4,"[3, 1, 3, 3]","[3, 3, 1]",Not Confusing
+485,inquirer,monaca-inquirer,prefix/ suffix augmentation,4,"[3, 1, 3, 3]","[1, 3, 1]",Not Confusing
+342,ethereum-ens,lasens,asemantic substitution,4,"[3, 1, 3, 1]","[3, 1, 3]",Not Confusing
+497,is-fn,isbn,delimiter modification,4,"[3, 1, 2]","[3, 1, 2]",Not Confusing
+930,sinon-test,simontest,homographic replacement,3,"[3, 1, 2]","[3, 1, 2]",Not Confusing
+912,semver-intersect,bbox-intersect,asemantic substitution,4,"[3, 1, 2, 3]","[2, 2, 2]",Not Confusing
+153,batch,batch-then,prefix/ suffix augmentation,4,"[3, 1, 2, 1]","[1, 2, 1]",Not Confusing
+440,grpc-create-metadata,metadata,simplification,4,"[3, 1, 1]","[3, 1, 1]",Not Confusing
+515,jest-junit,j2ts-junit,homophonic similarity,4,"[3, 1, 1]","[3, 1, 1]",Not Confusing
+916,serve-placeholder,nuts-serve,asemantic substitution,3,"[3, 1, 1]","[3, 1, 1]",Not Confusing
+104,angular2-moment,moment-js,asemantic substitution,4,"[3, 1, 1, 2]","[2, 1, 1]",Not Confusing
+341,essentials,basics,semantic substitution,4,"[3, 1, 1, 1]","[1, 1, 1]",Not Confusing
+436,graphql-typed,typed-vuex,asemantic substitution,4,"[3, 1, 1, 1]","[1, 1, 3]",Not Confusing
+603,lodash.last,last-gmail,asemantic substitution,4,"[3, 1, 1, 1]","[1, 1, 3]",Not Confusing
+112,apollo-link-error,@apollo/link-error,scope confusion,3,"[2, 6, 6]","[2, 6, 6]",Mildly Confusing
+86,@types/pngjs,@types/pngjs2,scope confusion,3,"[2, 6, 5]","[2, 6, 5]",Mildly Confusing
+760,preact,react-p,delimiter modification,3,"[2, 6, 5]","[2, 6, 5]",Mildly Confusing
+845,reduce,reducer,grammatical substitution,3,"[2, 6, 5]","[2, 6, 5]",Mildly Confusing
+866,rest,rest-seed,prefix/ suffix augmentation,3,"[2, 6, 5]","[2, 6, 5]",Mildly Confusing
+726,parseuri,parse_url,homographic replacement,3,"[2, 6, 4]","[2, 6, 4]",Mildly Confusing
+867,ret,ref,homographic replacement,3,"[2, 6, 4]","[2, 6, 4]",Mildly Confusing
+905,scss-tokenizer,js-tokenizer,semantic substitution,4,"[2, 6, 4, 3]","[3, 6, 3]",Not Confusing
+589,liquidjs,liquid.js,delimiter modification,4,"[2, 6, 3]","[2, 6, 3]",Not Confusing
+712,onchange,on-change,delimiter modification,4,"[2, 6, 3, 6]","[3, 6, 6]",Mildly Confusing
+442,grunt-eslint,grunt-yaml,semantic substitution,4,"[2, 6, 3, 3]","[3, 6, 6]",Mildly Confusing
+73,@types/cron,@types/cson,scope confusion,4,"[2, 6, 2, 4]","[4, 6, 4]",Confusing
+1017,tls,t-js,homographic replacement,3,"[2, 6, 1]","[2, 6, 1]",Not Confusing
+1124,zustand,and,simplification,3,"[2, 6, 1]","[2, 6, 1]",Not Confusing
+421,globalize,globalise,alternate spelling,7,"[2, 6, 1, 4, 6, 6, 6]","[6, 1, 6]",Mildly Confusing
+820,react-p5,react-p,homophonic similarity,3,"[2, 5, 6]","[2, 5, 6]",Mildly Confusing
+348,export-files,files,simplification,4,"[2, 5, 5]","[2, 5, 5]",Mildly Confusing
+796,rc-slider,rc-slide,grammatical substitution,3,"[2, 5, 5]","[2, 5, 5]",Mildly Confusing
+854,release-it,create-release-it,prefix/ suffix augmentation,4,"[2, 5, 5, 6]","[2, 6, 5]",Mildly Confusing
+596,lodash,lodashsh,prefix/ suffix augmentation,4,"[2, 5, 5, 3]","[5, 3, 5]",Mildly Confusing
+402,gauge,gage,alternate spelling,7,"[2, 5, 5, 1, 1, 3, 2]","[3, 5, 1]",Not Confusing
+140,babel-merge,babe,simplification,3,"[2, 5, 4]","[2, 5, 4]",Mildly Confusing
+472,hunspell-spellchecker,hunspell-spellcheck,simplification,3,"[2, 5, 4]","[2, 5, 4]",Mildly Confusing
+698,object-assign-deep,deep-object-assign,sequence reordering,3,"[2, 5, 4]","[2, 5, 4]",Mildly Confusing
+743,pino,pina,homographic replacement,3,"[2, 5, 4]","[2, 5, 4]",Mildly Confusing
+931,sitemap-xml,xml-decorators,asemantic substitution,4,"[2, 5, 4, 2]","[2, 2, 2]",Not Confusing
+454,haye,h-eye,homographic replacement,4,"[2, 5, 3]","[2, 5, 3]",Not Confusing
+664,multimatch,match-iz,asemantic substitution,4,"[2, 5, 3]","[2, 5, 3]",Not Confusing
+826,react-resize-detector,resize-sensor--react,semantic substitution,3,"[2, 5, 3]","[2, 5, 3]",Not Confusing
+111,apollo-link-batch-http,@apollo/link-batch-http,scope confusion,3,"[2, 5, 2]","[2, 5, 2]",Not Confusing
+464,http-assert,assert-helpers,asemantic substitution,4,"[2, 5, 2]","[2, 5, 2]",Not Confusing
+716,os,es,homographic replacement,3,"[2, 5, 2]","[2, 5, 2]",Not Confusing
+769,promise-fs,f-promise,grammatical substitution,4,"[2, 5, 2]","[2, 5, 2]",Not Confusing
+939,snyk,sung,homophonic similarity,3,"[2, 5, 2]","[2, 5, 2]",Not Confusing
+1026,trim,rtrim,homophonic similarity,3,"[2, 5, 2]","[2, 5, 2]",Not Confusing
+1108,xml-js,js-html,semantic substitution,3,"[2, 5, 2]","[2, 5, 2]",Not Confusing
+175,cachedown,offcache,semantic substitution,4,"[2, 5, 1]","[2, 5, 1]",Not Confusing
+317,emojibase,base-emoji,sequence reordering,3,"[2, 5, 1]","[2, 5, 1]",Not Confusing
+474,ids,ips,homographic replacement,3,"[2, 5, 1]","[2, 5, 1]",Not Confusing
+871,rgb,rgd,homographic replacement,3,"[2, 5, 1]","[2, 5, 1]",Not Confusing
+1011,text-table,tabletext,sequence reordering,3,"[2, 5, 1]","[2, 5, 1]",Not Confusing
+431,graphql-middleware,nuxt-graphql-middleware,prefix/ suffix augmentation,4,"[2, 5, 1, 3]","[5, 2, 5]",Mildly Confusing
+490,ipfs-utils,utils,simplification,4,"[2, 5, 1, 2]","[2, 1, 2]",Not Confusing
+960,steed,tsoid,homophonic similarity,4,"[2, 5, 1, 2]","[5, 2, 2]",Not Confusing
+58,@shopify/react-i18n,@wordpress/react-i18n,scope confusion,4,"[2, 4, 6]","[2, 4, 6]",Mildly Confusing
+70,@types/cjson,@types/cson,scope confusion,3,"[2, 4, 6]","[2, 4, 6]",Mildly Confusing
+97,ajax-request,request-ajax,sequence reordering,4,"[2, 4, 6]","[2, 4, 6]",Mildly Confusing
+195,color-logger,colourlogger,alternate spelling,7,"[2, 4, 6, 6, 6, 3, 3]","[6, 3, 6]",Mildly Confusing
+807,react-fontawesome,react-font-awesome,delimiter modification,4,"[2, 4, 6, 2]","[2, 2, 4]",Not Confusing
+870,rework-import,rework-importer,semantic substitution,3,"[2, 4, 5]","[2, 4, 5]",Mildly Confusing
+1005,templates,react-templates,prefix/ suffix augmentation,3,"[2, 4, 5]","[2, 4, 5]",Mildly Confusing
+583,leek,laika,homophonic similarity,4,"[2, 4, 5, 1]","[4, 5, 1]",Mildly Confusing
+321,engine,engine-check,prefix/ suffix augmentation,3,"[2, 4, 4]","[2, 4, 4]",Mildly Confusing
+1002,temp-dir,tempdir,delimiter modification,3,"[2, 4, 4]","[2, 4, 4]",Mildly Confusing
+118,array-every,array,simplification,4,"[2, 4, 3]","[2, 4, 3]",Not Confusing
+1062,urljoin,cssjoin,asemantic substitution,3,"[2, 4, 3]","[2, 4, 3]",Not Confusing
+1112,xml-utils,xml-literals,asemantic substitution,3,"[2, 4, 3]","[2, 4, 3]",Not Confusing
+429,graphql,graphical,homophonic similarity,4,"[2, 4, 2]","[2, 4, 2]",Not Confusing
+781,qqjs,mq-js,delimiter modification,3,"[2, 4, 2]","[2, 4, 2]",Not Confusing
+822,react-pdf,react-p,simplification,3,"[2, 4, 2]","[2, 4, 2]",Not Confusing
+1076,vfile,vtile,homographic replacement,3,"[2, 4, 2]","[2, 4, 2]",Not Confusing
+1088,vue-meta,vue-mat,homophonic similarity,3,"[2, 4, 2]","[2, 4, 2]",Not Confusing
+373,fileset,seq-file,delimiter modification,4,"[2, 4, 1]","[2, 4, 1]",Not Confusing
+545,json-api-serializer,xmlserializer,semantic substitution,4,"[2, 4, 1]","[2, 4, 1]",Not Confusing
+762,pretty,parrot,homophonic similarity,3,"[2, 4, 1]","[2, 4, 1]",Not Confusing
+974,string,ltype_string,prefix/ suffix augmentation,4,"[2, 4, 1, 3]","[2, 1, 3]",Not Confusing
+315,ember-modal-dialog,modal-dialog,simplification,4,"[2, 3, 6]","[2, 3, 6]",Not Confusing
+502,is-node,node-are,semantic substitution,4,"[2, 3, 6]","[2, 3, 6]",Not Confusing
+179,case,typecase,prefix/ suffix augmentation,4,"[2, 3, 6, 2]","[2, 2, 2]",Not Confusing
+737,pg-types,gd-pg,asemantic substitution,4,"[2, 3, 6, 2]","[2, 2, 2]",Not Confusing
+51,@primer/css,primer-css,scope confusion,4,"[2, 3, 5]","[2, 3, 5]",Not Confusing
+548,json-loader,json5-loader,homophonic similarity,4,"[2, 3, 5]","[2, 3, 5]",Not Confusing
+929,sinon-chai,chai-sinon,sequence reordering,3,"[2, 3, 5]","[2, 3, 5]",Not Confusing
+335,eslint-import-resolver-webpack,eslint-import-resolver-jspm,semantic substitution,4,"[2, 3, 5, 4]","[4, 4, 4]",Confusing
+642,mime-db,mime-lib,asemantic substitution,4,"[2, 3, 5, 4]","[3, 4, 2]",Not Confusing
+862,reset-css,resets.css,grammatical substitution,4,"[2, 3, 5, 4]","[3, 5, 2]",Not Confusing
+801,react-axe,ax-react,alternate spelling,7,"[2, 3, 5, 2, 3, 1, 1]","[5, 2, 1]",Not Confusing
+11,@aws-sdk/client-sqs,@aws-sdk/client-sms,scope confusion,4,"[2, 3, 4]","[2, 3, 4]",Not Confusing
+249,csvjson,json-csv,delimiter modification,4,"[2, 3, 4]","[2, 3, 4]",Not Confusing
+675,ng-click-outside,ng-outside-click,sequence reordering,3,"[2, 3, 4]","[2, 3, 4]",Not Confusing
+690,nodeify,modeify,homographic replacement,3,"[2, 3, 4]","[2, 3, 4]",Not Confusing
+863,resize-observer,react-resize-observer,prefix/ suffix augmentation,3,"[2, 3, 4]","[2, 3, 4]",Not Confusing
+163,bs-logger,dslogger,homographic replacement,4,"[2, 3, 3]","[2, 3, 3]",Not Confusing
+328,envify,env,simplification,4,"[2, 3, 3]","[2, 3, 3]",Not Confusing
+350,express,ng2-express,prefix/ suffix augmentation,3,"[2, 3, 3]","[2, 3, 3]",Not Confusing
+715,opts,opfs,homographic replacement,3,"[2, 3, 3]","[2, 3, 3]",Not Confusing
+158,bootstrap,bootstrap-vue-dialog,prefix/ suffix augmentation,4,"[2, 3, 3, 1]","[3, 1, 1]",Not Confusing
+211,concat-stream,connect-stream,homophonic similarity,4,"[2, 3, 3, 1]","[3, 3, 3]",Not Confusing
+84,@types/p5,@types/p2,scope confusion,3,"[2, 3, 2]","[2, 3, 2]",Not Confusing
+361,fastify-plugin,fastify-etag,asemantic substitution,4,"[2, 3, 2]","[2, 3, 2]",Not Confusing
+405,gh-pages,vo-pages,asemantic substitution,4,"[2, 3, 2]","[2, 3, 2]",Not Confusing
+614,lscache,jscache,homographic replacement,3,"[2, 3, 2]","[2, 3, 2]",Not Confusing
+847,redux,nedux,homographic replacement,3,"[2, 3, 2]","[2, 3, 2]",Not Confusing
+231,creditcards-types,creditcard,simplification,4,"[2, 3, 2, 4]","[2, 2, 2]",Not Confusing
+23,@firebase/database,@react-firebase/database,scope confusion,4,"[2, 3, 2, 1]","[3, 1, 2]",Not Confusing
+133,automation-events,nom-events,asemantic substitution,4,"[2, 3, 2, 1]","[3, 2, 3]",Not Confusing
+546,json-buffer,xml-buffer-tostring,semantic substitution,4,"[2, 3, 1]","[2, 3, 1]",Not Confusing
+512,iter-tools,tools,simplification,4,"[2, 3, 1, 2]","[2, 3, 2]",Not Confusing
+662,mssql,any-db-mssql,prefix/ suffix augmentation,4,"[2, 3, 1, 1]","[1, 2, 3]",Not Confusing
+15,@babel/helper-annotate-as-pure,babel-helper-annotate-as-pure,scope confusion,4,"[2, 2, 6]","[2, 2, 6]",Not Confusing
+620,map-stream,p-stream,simplification,3,"[2, 2, 6]","[2, 2, 6]",Not Confusing
+1029,ts-type,ts-typie,homophonic similarity,3,"[2, 2, 6]","[2, 2, 6]",Not Confusing
+928,sinon-chai,chai-extras,asemantic substitution,4,"[2, 2, 6, 2]","[6, 2, 6]",Mildly Confusing
+584,leek,lockui,homophonic similarity,4,"[2, 2, 6, 1]","[2, 2, 6]",Not Confusing
+186,clarify,clarity,homographic replacement,3,"[2, 2, 5]","[2, 2, 5]",Not Confusing
+274,defu,dofu,homographic replacement,3,"[2, 2, 5]","[2, 2, 5]",Not Confusing
+295,domino,demeine,homophonic similarity,3,"[2, 2, 5]","[2, 2, 5]",Not Confusing
+313,element-closest,component-closest,semantic substitution,3,"[2, 2, 5]","[2, 2, 5]",Not Confusing
+926,simple-is,simplejs,homographic replacement,3,"[2, 2, 5]","[2, 2, 5]",Not Confusing
+56,@sendgrid/mail,sendgrid-mail,scope confusion,4,"[2, 2, 5, 2]","[2, 2, 2]",Not Confusing
+103,angular-cookies,angular-cookie,grammatical substitution,4,"[2, 2, 4]","[2, 2, 4]",Not Confusing
+669,nats,nodeice,homophonic similarity,3,"[2, 2, 4]","[2, 2, 4]",Not Confusing
+494,is-browser,izi-browser,homophonic similarity,4,"[2, 2, 4, 3]","[3, 2, 2]",Not Confusing
+629,mdast-add-list-metadata,metadata,simplification,4,"[2, 2, 4, 2]","[4, 2, 2]",Not Confusing
+400,gamma,guim,homophonic similarity,4,"[2, 2, 4, 1]","[2, 4, 4]",Mildly Confusing
+253,cyclist,bicycle,semantic substitution,4,"[2, 2, 3]","[2, 2, 3]",Not Confusing
+265,date.js,ts-date,delimiter modification,4,"[2, 2, 3]","[2, 2, 3]",Not Confusing
+1077,victory-box-plot,victor,simplification,3,"[2, 2, 3]","[2, 2, 3]",Not Confusing
+1081,vscode-uri,vscode-rpc,asemantic substitution,3,"[2, 2, 3]","[2, 2, 3]",Not Confusing
+747,plur,pl-ui,delimiter modification,4,"[2, 2, 3, 5]","[2, 3, 2]",Not Confusing
+655,modernizr-loader,polyfills-loader,semantic substitution,4,"[2, 2, 3, 4]","[3, 2, 3]",Not Confusing
+67,@types/astring,@types/string,scope confusion,4,"[2, 2, 3, 3]","[2, 3, 2]",Not Confusing
+29,@ionic/react,@tomic/react,scope confusion,3,"[2, 2, 2]","[2, 2, 2]",Not Confusing
+235,csjs,os.js,homographic replacement,4,"[2, 2, 2]","[2, 2, 2]",Not Confusing
+239,css-select,html-select,semantic substitution,4,"[2, 2, 2]","[2, 2, 2]",Not Confusing
+242,cssstyle,style.css,sequence reordering,3,"[2, 2, 2]","[2, 2, 2]",Not Confusing
+628,mathjs,path.js,delimiter modification,3,"[2, 2, 2]","[2, 2, 2]",Not Confusing
+859,require-glob,abs-require,asemantic substitution,3,"[2, 2, 2]","[2, 2, 2]",Not Confusing
+875,router,tor-router,prefix/ suffix augmentation,3,"[2, 2, 2]","[2, 2, 2]",Not Confusing
+1040,typedarray,typed,simplification,3,"[2, 2, 2]","[2, 2, 2]",Not Confusing
+1050,universal-cookie,ps-universal,asemantic substitution,3,"[2, 2, 2]","[2, 2, 2]",Not Confusing
+71,@types/color,@react-types/color,scope confusion,4,"[2, 2, 2, 5]","[2, 2, 2]",Not Confusing
+69,@types/c3,@types/n3,scope confusion,4,"[2, 2, 2, 4]","[2, 2, 2]",Not Confusing
+113,apollo-server-caching,apollo-server-cache-memcached,semantic substitution,4,"[2, 2, 2, 2]","[2, 2, 2]",Not Confusing
+136,axe-webdriverjs,riverjs,simplification,4,"[2, 2, 1]","[2, 2, 1]",Not Confusing
+478,imagesloaded,image,simplification,3,"[2, 2, 1]","[2, 2, 1]",Not Confusing
+551,json-mask,mask-xml,semantic substitution,4,"[2, 2, 1]","[2, 2, 1]",Not Confusing
+993,tape,tage,homographic replacement,3,"[2, 2, 1]","[2, 2, 1]",Not Confusing
+1021,trampa,pellicola,semantic substitution,3,"[2, 2, 1]","[2, 2, 1]",Not Confusing
+122,array-reduce,array,simplification,4,"[2, 2, 1, 2]","[2, 2, 2]",Not Confusing
+225,craco-less,less-lib,asemantic substitution,4,"[2, 2, 1, 1]","[2, 2, 1]",Not Confusing
+316,emoji-regex,ethereum-regex,asemantic substitution,4,"[2, 1, 6, 5]","[1, 2, 5]",Not Confusing
+72,@types/compression,@types/kompression,scope confusion,3,"[2, 1, 5]","[2, 1, 5]",Not Confusing
+222,cordova-plugin-screen-orientation,screen-orientation,simplification,4,"[2, 1, 5]","[2, 1, 5]",Not Confusing
+550,json-loader,webpack-xml-loader,semantic substitution,3,"[2, 1, 5]","[2, 1, 5]",Not Confusing
+1004,temp-fs,temp-ts,homographic replacement,3,"[2, 1, 5]","[2, 1, 5]",Not Confusing
+1037,type-graphql,graphql-types,grammatical substitution,3,"[2, 1, 5]","[2, 1, 5]",Not Confusing
+1089,vue-ref,ref,simplification,3,"[2, 1, 5]","[2, 1, 5]",Not Confusing
+181,chromatic,chromatism,semantic substitution,4,"[2, 1, 5, 3]","[2, 3, 1]",Not Confusing
+96,accessor-fn,ext-accessor,asemantic substitution,5,"[2, 1, 5, 1]","[2, 1, 2]",Not Confusing
+299,download,mongodb-download,prefix/ suffix augmentation,4,"[2, 1, 5, 1]","[5, 2, 5]",Mildly Confusing
+894,sass,sauce,homophonic similarity,4,"[2, 1, 5, 1]","[5, 5, 1]",Mildly Confusing
+1007,test,tester,semantic substitution,3,"[2, 1, 4]","[2, 1, 4]",Not Confusing
+1075,vanilla-swipe,swipe,simplification,3,"[2, 1, 4]","[2, 1, 4]",Not Confusing
+1080,vite,vide,homophonic similarity,3,"[2, 1, 4]","[2, 1, 4]",Not Confusing
+229,creditcards,credit-card-logos,semantic substitution,4,"[2, 1, 4, 5]","[5, 2, 1]",Not Confusing
+754,postcss-reporter,screenshot-reporter,asemantic substitution,4,"[2, 1, 4, 3]","[3, 1, 3]",Not Confusing
+1043,typescript,typescript-equals,prefix/ suffix augmentation,4,"[2, 1, 4, 2]","[2, 1, 1]",Not Confusing
+169,build,ugnis-build,prefix/ suffix augmentation,4,"[2, 1, 4, 1]","[2, 4, 2]",Not Confusing
+908,select2,multiselect,semantic substitution,4,"[2, 1, 4, 1]","[1, 4, 4]",Mildly Confusing
+652,mockery,mockeer,homophonic similarity,3,"[2, 1, 3]","[2, 1, 3]",Not Confusing
+795,razorpay,react-razorpay,prefix/ suffix augmentation,3,"[2, 1, 3]","[2, 1, 3]",Not Confusing
+767,promise,wait-promise,prefix/ suffix augmentation,4,"[2, 1, 3, 6]","[3, 6, 6]",Mildly Confusing
+192,codeclimate-test-reporter,codeclimate,simplification,3,"[2, 1, 2]","[2, 1, 2]",Not Confusing
+947,spdy-transport,transport,simplification,3,"[2, 1, 2]","[2, 1, 2]",Not Confusing
+977,stringify-object-es5,stringify,simplification,3,"[2, 1, 2]","[2, 1, 2]",Not Confusing
+1036,type,typo,homographic replacement,3,"[2, 1, 2]","[2, 1, 2]",Not Confusing
+951,sse.js,nestjs-sse,asemantic substitution,4,"[2, 1, 2, 6]","[1, 2, 2]",Not Confusing
+600,lodash.flatten,flatten-dir,asemantic substitution,4,"[2, 1, 2, 4]","[2, 2, 1]",Not Confusing
+263,date-now,dateonly,semantic substitution,4,"[2, 1, 2, 2]","[2, 2, 1]",Not Confusing
+829,react-scroll-parallax,parallax,simplification,4,"[2, 1, 2, 1]","[1, 1, 1]",Not Confusing
+483,inline-css,inline-email,asemantic substitution,4,"[2, 1, 1]","[2, 1, 1]",Not Confusing
+674,next,next-urql,prefix/ suffix augmentation,4,"[2, 1, 1]","[2, 1, 1]",Not Confusing
+946,spdy,websockets,semantic substitution,3,"[2, 1, 1]","[2, 1, 1]",Not Confusing
+861,reset,rasti,homophonic similarity,4,"[2, 1, 1, 2]","[2, 2, 2]",Not Confusing
+469,human-id,animal-id,semantic substitution,4,"[2, 1, 1, 1]","[1, 1, 1]",Not Confusing
+1052,upload-js,download.js,semantic substitution,4,"[2, 1, 1, 1]","[1, 1, 2]",Not Confusing
+150,baseui,base5-ui,delimiter modification,4,"[1, 6, 3]","[1, 6, 3]",Not Confusing
+843,recoil,regal,homophonic similarity,3,"[1, 6, 2]","[1, 6, 2]",Not Confusing
+1101,windows-release,windows,simplification,3,"[1, 6, 2]","[1, 6, 2]",Not Confusing
+81,@types/history,@types/qhistory,scope confusion,4,"[1, 6, 2, 5]","[6, 2, 5]",Mildly Confusing
+524,jquery-jsonview,view.js,semantic substitution,4,"[1, 6, 2, 1]","[1, 1, 2]",Not Confusing
+182,cidr-regex,regexp,semantic substitution,4,"[1, 6, 1]","[1, 6, 1]",Not Confusing
+543,json,config-yaml,semantic substitution,4,"[1, 6, 1]","[1, 6, 1]",Not Confusing
+605,lodash.pick,lodas,simplification,4,"[1, 6, 1]","[1, 6, 1]",Not Confusing
+670,ndarray,nitro,homophonic similarity,4,"[1, 6, 1]","[1, 6, 1]",Not Confusing
+43,@ngrx/store,@ngix/store,scope confusion,4,"[1, 5, 6]","[1, 5, 6]",Mildly Confusing
+638,micro,microh,homophonic similarity,3,"[1, 5, 5]","[1, 5, 5]",Mildly Confusing
+245,csv-loader,jsonloader,semantic substitution,4,"[1, 5, 5, 3]","[5, 5, 3]",Mildly Confusing
+372,file-type,filetypes,grammatical substitution,4,"[1, 5, 5, 2]","[5, 1, 1]",Not Confusing
+580,lazysizes,lazy-ecs,asemantic substitution,4,"[1, 5, 4, 4]","[1, 1, 1]",Not Confusing
+566,jss-global,smsglobal,asemantic substitution,4,"[1, 5, 4, 1]","[1, 1, 5]",Not Confusing
+185,ckeditor,ditor,simplification,4,"[1, 5, 3]","[1, 5, 3]",Not Confusing
+858,require,requine,homographic replacement,3,"[1, 5, 3]","[1, 5, 3]",Not Confusing
+564,jspdf,pdf.js,delimiter modification,4,"[1, 5, 3, 6]","[1, 3, 3]",Not Confusing
+260,dataloader,nestjs-dataloader,prefix/ suffix augmentation,4,"[1, 5, 3, 4]","[5, 1, 4]",Mildly Confusing
+1095,weak-map,map,simplification,3,"[1, 5, 2]","[1, 5, 2]",Not Confusing
+830,react-scroll-to-component,react-scroll-to-element,semantic substitution,4,"[1, 5, 2, 4]","[2, 2, 4]",Not Confusing
+955,standard-json,standard-errors,asemantic substitution,4,"[1, 5, 2, 1]","[2, 2, 2]",Not Confusing
+1060,url2,uriel,homophonic similarity,3,"[1, 5, 1]","[1, 5, 1]",Not Confusing
+1120,year,yarr,homophonic similarity,3,"[1, 5, 1]","[1, 5, 1]",Not Confusing
+777,pvutils,ph-utils,delimiter modification,4,"[1, 4, 6, 3]","[1, 1, 3]",Not Confusing
+521,joycon,joy,simplification,3,"[1, 4, 5]","[1, 4, 5]",Mildly Confusing
+1003,temp-file,temp-folder,semantic substitution,3,"[1, 4, 5]","[1, 4, 5]",Mildly Confusing
+88,@types/yeoman-generator,types-yeoman-generator,scope confusion,4,"[1, 4, 5, 2]","[5, 4, 4]",Confusing
+47,@otplib/core,@otpjs/core,scope confusion,3,"[1, 4, 4]","[1, 4, 4]",Mildly Confusing
+547,json-formatter-js,json-formatter,simplification,4,"[1, 4, 4]","[1, 4, 4]",Mildly Confusing
+634,metascraper,mega-scraper,delimiter modification,4,"[1, 4, 4, 6]","[1, 4, 6]",Mildly Confusing
+763,pretty-data,prettydate,homographic replacement,3,"[1, 4, 3]","[1, 4, 3]",Not Confusing
+471,humanize-duration,humanise-duration,alternate spelling,6,"[1, 4, 3, 6]","[3, 6, 4]",Mildly Confusing
+105,angular2-moment,moment-ranges,asemantic substitution,5,"[1, 4, 3, 1]","[1, 4, 4]",Mildly Confusing
+305,dva,dve,homographic replacement,3,"[1, 4, 2]","[1, 4, 2]",Not Confusing
+717,p-map,gmap,homographic replacement,3,"[1, 4, 2]","[1, 4, 2]",Not Confusing
+1071,v-money,vue-money,homophonic similarity,3,"[1, 4, 2]","[1, 4, 2]",Not Confusing
+1118,yamljs,config.js,semantic substitution,3,"[1, 4, 2]","[1, 4, 2]",Not Confusing
+384,flat,field,homophonic similarity,4,"[1, 4, 2, 4]","[4, 4, 4]",Confusing
+420,global-cache,cache,simplification,4,"[1, 4, 2, 4]","[1, 4, 4]",Mildly Confusing
+917,serverless-mysql,cdk-serverless,asemantic substitution,4,"[1, 4, 2, 3]","[4, 4, 3]",Mildly Confusing
+244,cst,cstdio,prefix/ suffix augmentation,4,"[1, 4, 1]","[1, 4, 1]",Not Confusing
+435,graphql-typed,grapesjs-typed,asemantic substitution,4,"[1, 4, 1]","[1, 4, 1]",Not Confusing
+980,stylelint-scss,scss-extras,asemantic substitution,4,"[1, 4, 1]","[1, 4, 1]",Not Confusing
+42,@next/mdx,next-mdx,scope confusion,4,"[1, 3, 5, 4]","[4, 4, 1]",Mildly Confusing
+82,@types/joi,types-joi,scope confusion,4,"[1, 3, 4, 5]","[1, 5, 3]",Not Confusing
+498,is-html,is-xml,semantic substitution,4,"[1, 3, 4, 1]","[3, 3, 4]",Not Confusing
+123,array-shuffle,array,simplification,4,"[1, 3, 3]","[1, 3, 3]",Not Confusing
+269,debug,debuggo,homophonic similarity,3,"[1, 3, 3]","[1, 3, 3]",Not Confusing
+363,fault,field,homophonic similarity,4,"[1, 3, 2]","[1, 3, 2]",Not Confusing
+552,json-parser,webapi-parser,semantic substitution,4,"[1, 3, 2]","[1, 3, 2]",Not Confusing
+937,snappy,sinopia,homophonic similarity,4,"[1, 3, 2]","[1, 3, 2]",Not Confusing
+149,base64-js,jsonjs,semantic substitution,4,"[1, 3, 1]","[1, 3, 1]",Not Confusing
+711,once,before,semantic substitution,3,"[1, 3, 1]","[1, 3, 1]",Not Confusing
+218,copy,coppa,homophonic similarity,4,"[1, 3, 1, 1]","[3, 1, 1]",Not Confusing
+561,jsonp,websockets,semantic substitution,4,"[1, 3, 1, 1]","[3, 3, 1]",Not Confusing
+771,promise-queue,promise-queue-manager,prefix/ suffix augmentation,3,"[1, 2, 6]","[1, 2, 6]",Not Confusing
+30,@jest/core,jest-core,scope confusion,4,"[1, 2, 6, 3]","[2, 6, 3]",Not Confusing
+75,@types/d3,@types/n3,scope confusion,3,"[1, 2, 5]","[1, 2, 5]",Not Confusing
+219,copy-to,cop,simplification,3,"[1, 2, 5]","[1, 2, 5]",Not Confusing
+636,metrics,mmtrix,homophonic similarity,3,"[1, 2, 5]","[1, 2, 5]",Not Confusing
+22,@factor/ui,@tractor/ui,scope confusion,4,"[1, 2, 5, 2]","[2, 2, 1]",Not Confusing
+783,qrious,vue-qrious,prefix/ suffix augmentation,4,"[1, 2, 5, 1]","[2, 1, 1]",Not Confusing
+920,sha.js,soajs,delimiter modification,3,"[1, 2, 4]","[1, 2, 4]",Not Confusing
+164,bs-logger,fslogger,delimiter modification,4,"[1, 2, 4, 5]","[1, 4, 5]",Mildly Confusing
+411,git-win,mingit,delimiter modification,4,"[1, 2, 4, 4]","[2, 4, 1]",Not Confusing
+370,file-js,filer.js,grammatical substitution,3,"[1, 2, 3]","[1, 2, 3]",Not Confusing
+910,semver-diff,sass-semver,asemantic substitution,3,"[1, 2, 3]","[1, 2, 3]",Not Confusing
+1073,validator,feed-validator,prefix/ suffix augmentation,3,"[1, 2, 3]","[1, 2, 3]",Not Confusing
+127,as-table,table.js,delimiter modification,4,"[1, 2, 3, 3]","[1, 2, 3]",Not Confusing
+911,semver-dsl,ajv-semver,asemantic substitution,4,"[1, 2, 3, 2]","[2, 2, 3]",Not Confusing
+390,formstream,form,simplification,4,"[1, 2, 3, 1]","[2, 1, 1]",Not Confusing
+844,reds,redsess,grammatical substitution,4,"[1, 2, 3, 1]","[1, 2, 2]",Not Confusing
+262,date-holidays,@date/holidays,scope confusion,3,"[1, 2, 2]","[1, 2, 2]",Not Confusing
+322,engine,motor,semantic substitution,3,"[1, 2, 2]","[1, 2, 2]",Not Confusing
+422,gmail-tester,marko-tester,asemantic substitution,4,"[1, 2, 2]","[1, 2, 2]",Not Confusing
+637,metro-resolver,resolver,simplification,3,"[1, 2, 2]","[1, 2, 2]",Not Confusing
+1082,vue-html2pdf,vue-html,simplification,3,"[1, 2, 2]","[1, 2, 2]",Not Confusing
+625,match-media,match-iz,asemantic substitution,4,"[1, 2, 2, 3]","[2, 2, 2]",Not Confusing
+516,jest-junit,jest-graphviz,asemantic substitution,4,"[1, 2, 2, 2]","[2, 2, 2]",Not Confusing
+1056,urix,concurix,prefix/ suffix augmentation,4,"[1, 2, 2, 1]","[2, 1, 1]",Not Confusing
+391,formstream,stream-fork,delimiter modification,4,"[1, 2, 1]","[1, 2, 1]",Not Confusing
+590,livereload-js,load-js,simplification,3,"[1, 2, 1]","[1, 2, 1]",Not Confusing
+792,rangy,ra,simplification,3,"[1, 2, 1]","[1, 2, 1]",Not Confusing
+961,store,liwi-store,prefix/ suffix augmentation,3,"[1, 2, 1]","[1, 2, 1]",Not Confusing
+709,ocsp,x509,semantic substitution,4,"[1, 2, 1, 4]","[1, 4, 1]",Not Confusing
+616,machine,mediamachine,prefix/ suffix augmentation,4,"[1, 2, 1, 3]","[1, 3, 1]",Not Confusing
+729,passport-oauth,passport-oauth2-middleware,semantic substitution,4,"[1, 2, 1, 1]","[1, 1, 1]",Not Confusing
+284,diff,idevvue,homophonic similarity,3,"[1, 1, 6]","[1, 1, 6]",Not Confusing
+193,color,c0lor,homographic replacement,4,"[1, 1, 6, 6]","[6, 1, 1]",Not Confusing
+461,html-dnd,dndesm,asemantic substitution,4,"[1, 1, 6, 4]","[1, 1, 1]",Not Confusing
+1058,url-regex,wildcard-regex,asemantic substitution,3,"[1, 1, 5]","[1, 1, 5]",Not Confusing
+1012,three,multiple,semantic substitution,4,"[1, 1, 5, 1]","[1, 1, 1]",Not Confusing
+129,assert,acyort,homophonic similarity,3,"[1, 1, 4]","[1, 1, 4]",Not Confusing
+171,bulma,blomma,homophonic similarity,4,"[1, 1, 4]","[1, 1, 4]",Not Confusing
+933,skipper,skyper,homophonic similarity,3,"[1, 1, 4]","[1, 1, 4]",Not Confusing
+1008,test,tost,homographic replacement,3,"[1, 1, 4]","[1, 1, 4]",Not Confusing
+1063,urljoin,regex-join,asemantic substitution,3,"[1, 1, 4]","[1, 1, 4]",Not Confusing
+168,bufferutil,nanobuffer,asemantic substitution,4,"[1, 1, 4, 4]","[1, 1, 1]",Not Confusing
+656,module,xxw-npm-module,prefix/ suffix augmentation,4,"[1, 1, 4, 2]","[2, 2, 2]",Not Confusing
+942,source-map,source-map-trace,prefix/ suffix augmentation,3,"[1, 1, 3]","[1, 1, 3]",Not Confusing
+1110,xml-lexer,html-lexer,semantic substitution,3,"[1, 1, 3]","[1, 1, 3]",Not Confusing
+514,java,jjve,homophonic similarity,4,"[1, 1, 3, 3]","[3, 1, 3]",Not Confusing
+624,mask-json,mask-xml,semantic substitution,4,"[1, 1, 3, 1]","[1, 3, 1]",Not Confusing
+752,postcss-clean,readdir-clean,asemantic substitution,3,"[1, 1, 2]","[1, 1, 2]",Not Confusing
+1024,treeify,trava,homophonic similarity,3,"[1, 1, 2]","[1, 1, 2]",Not Confusing
+1046,unicode,uniqueid,homophonic similarity,3,"[1, 1, 2]","[1, 1, 2]",Not Confusing
+1083,vue-lodash,lodash.callback,asemantic substitution,3,"[1, 1, 2]","[1, 1, 2]",Not Confusing
+1107,xml-formatter,xmlmc,asemantic substitution,3,"[1, 1, 2]","[1, 1, 2]",Not Confusing
+1117,yaml-lint,jsonlint-js,semantic substitution,3,"[1, 1, 2]","[1, 1, 2]",Not Confusing
+196,color-name,colour-name,alternate spelling,7,"[1, 1, 2, 6, 4]","[1, 6, 1]",Not Confusing
+336,eslint-plugin-eslint-plugin,plugins,semantic substitution,4,"[1, 1, 2, 3]","[2, 3, 3]",Not Confusing
+891,saml,oauth2,semantic substitution,4,"[1, 1, 2, 2]","[2, 1, 1]",Not Confusing
+116,args,attrs,semantic substitution,5,"[1, 1, 2, 2, 1]","[1, 2, 1]",Not Confusing
+146,base32,buzz,homophonic similarity,4,"[1, 1, 1]","[1, 1, 1]",Not Confusing
+522,jquery,html5,semantic substitution,4,"[1, 1, 1]","[1, 1, 1]",Not Confusing
+592,lock,laika,homophonic similarity,3,"[1, 1, 1]","[1, 1, 1]",Not Confusing
+1039,typed.js,d_js,simplification,3,"[1, 1, 1]","[1, 1, 1]",Not Confusing
+1067,utf8-encode,base64-encode,semantic substitution,3,"[1, 1, 1]","[1, 1, 1]",Not Confusing
+160,bounce,obniz,homophonic similarity,4,"[1, 1, 1, 6]","[1, 1, 1]",Not Confusing
+544,json,yc-db-json,prefix/ suffix augmentation,4,"[1, 1, 1, 6]","[6, 1, 6]",Mildly Confusing
+154,bath-es5,bat,simplification,4,"[1, 1, 1, 5]","[5, 1, 1]",Not Confusing
+554,json-query,csv-query,semantic substitution,4,"[1, 1, 1, 5]","[1, 5, 1]",Not Confusing
+1049,unit.js,vue-unit,asemantic substitution,4,"[1, 1, 1, 5]","[1, 5, 1]",Not Confusing
+117,args-js,jsexpr,semantic substitution,4,"[1, 1, 1, 2]","[1, 1, 1]",Not Confusing
