@@ -8,6 +8,9 @@ The dataset collected and the evaluation tools for the dataset.
 The core detection implementations
 Tools used to implement various parts
 
+## Setup
+One of the detection rule requires the "fasttext-vectors" word vector. Download it from `https://dl.fbaipublicfiles.com/fasttext/vectors-english/crawl-300d-2M-subword.zip` and use the `tools/fasttext.py` to convert it into the saved model. The saved model needs to be placed into `core/models`
+
 ## Running the detection tools
 Displays typo-squatting categories exhibited by adversarial package WRT base package:
 
