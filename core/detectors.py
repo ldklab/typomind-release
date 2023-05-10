@@ -78,7 +78,6 @@ def classify_typosquat(base_pkg: str, adversarial_pkg: str) -> Dict[str, int]:
         detector_count = {(d.key, d.name): d(base_pkg, adversarial_pkg) for d in DetectorBase.enabled_inst_registry}
     else:
         detector_count = {(d.key, d.name): d(base_pkg, adversarial_pkg) for d in DetectorBase.scoped_inst_registry}
-
     return {_: c for _, c in detector_count.items() if c}
 
 class AsemanticSubstitution(DetectorBase):
@@ -87,8 +86,8 @@ class AsemanticSubstitution(DetectorBase):
     @normalizers.normalize_one_step_LD_dist
     @normalizers.normalize_delimiters
     def __call__(self, base_pkg: str, adversarial_pkg: str, *normalized_detectors) -> int:
-        if len(normalized_detectors) > 0 and '1-step-dl' in normalized_detectors[0].keys():
-            print(f"{base_pkg}, {adversarial_pkg}: 1-step-dl + asemantic substitution")
+        # if len(normalized_detectors) > 0 and '1-step-dl' in normalized_detectors[0].keys():
+        #     print(f"{base_pkg}, {adversarial_pkg}: 1-step-dl + asemantic substitution")
 
         is_asemantic = semantic.check_asemantic(base_pkg, adversarial_pkg)
 
@@ -132,8 +131,8 @@ class ScopeConfusion(DetectorBase):
     @normalizers.normalize_one_step_LD_dist
     @normalizers.normalize_delimiters
     def __call__(self, base_pkg: str, adversarial_pkg: str, *normalized_detectors) -> int:
-        if len(normalized_detectors) > 0 and '1-step-dl' in normalized_detectors[0].keys():
-            print(f"{base_pkg}, {adversarial_pkg}: 1-step-dl + scope confusion")
+        # if len(normalized_detectors) > 0 and '1-step-dl' in normalized_detectors[0].keys():
+        #     print(f"{base_pkg}, {adversarial_pkg}: 1-step-dl + scope confusion")
 
         is_scope_confusion = False
         if  "/" in base_pkg or "/" in adversarial_pkg:
@@ -195,8 +194,8 @@ class DelimiterModification(DetectorBase):
     @normalizers.normalize_one_step_LD_dist
     # @normalizers.normalize_grammar
     def __call__(self, base_pkg: str, adversarial_pkg: str, *normalized_detectors) -> int:
-        if len(normalized_detectors) > 0 and '1-step-dl' in normalized_detectors[0].keys():
-            print(f"{base_pkg}, {adversarial_pkg}: 1-step-dl + delimiter modification")
+        # if len(normalized_detectors) > 0 and '1-step-dl' in normalized_detectors[0].keys():
+        #     print(f"{base_pkg}, {adversarial_pkg}: 1-step-dl + delimiter modification")
 
         base_sequence = utils.to_sequence(base_pkg)
         base_seq_permutations = {''.join(element) for element in permutations(base_sequence)}
@@ -215,8 +214,8 @@ class PrefixSuffixAugmentation(DetectorBase):
     def __call__(self, base_pkg: str, adversarial_pkg: str,  popularity_threshold: float = 0.15, *normalized_detectors) -> int:  # threshold 0.135 adds false negative, 0.145 is fine
         if len(base_pkg) < 3 or len(adversarial_pkg) < 3: return 0 # check for length of package name, 3
 
-        if len(normalized_detectors) > 0 and '1-step-dl' in normalized_detectors[0].keys():
-            print(f"{base_pkg}, {adversarial_pkg}: 1-step-dl + prefix/suffix")
+        # if len(normalized_detectors) > 0 and '1-step-dl' in normalized_detectors[0].keys():
+        #     print(f"{base_pkg}, {adversarial_pkg}: 1-step-dl + prefix/suffix")
 
         normalized_base = base_pkg.replace('_', '')
         normalized_adversarial = adversarial_pkg.replace('_', '')
@@ -235,8 +234,8 @@ class Simplification(DetectorBase):
     @normalizers.normalize_one_step_LD_dist
     @normalizers.normalize_delimiters
     def __call__(self, base_pkg: str, adversarial_pkg: str, *normalized_detectors) -> int:
-        if len(normalized_detectors) > 0 and '1-step-dl' in normalized_detectors[0].keys():
-            print(f"{base_pkg}, {adversarial_pkg}: 1-step-dl + simplification")
+        # if len(normalized_detectors) > 0 and '1-step-dl' in normalized_detectors[0].keys():
+        #     print(f"{base_pkg}, {adversarial_pkg}: 1-step-dl + simplification")
 
         normalized_base = base_pkg.replace('_', '')
         normalized_adversarial = adversarial_pkg.replace('_', '')
@@ -293,8 +292,8 @@ class SemanticSubstitution(DetectorBase):
     @normalizers.normalize_delimiters
     def __call__(self, base_pkg: str, adversarial_pkg: str, *normalized_detectors) -> int:
         if len(base_pkg) < 4 or len(adversarial_pkg) < 4: return 0 # check for length of package name, 4
-        if len(normalized_detectors) > 0 and '1-step-dl' in normalized_detectors[0].keys():
-            print(f"{base_pkg}, {adversarial_pkg}: 1-step-dl + semantic substitution")
+        # if len(normalized_detectors) > 0 and '1-step-dl' in normalized_detectors[0].keys():
+        #     print(f"{base_pkg}, {adversarial_pkg}: 1-step-dl + semantic substitution")
 
         base_tokens = utils.to_sequence(base_pkg)
         adversarial_tokens = utils.to_sequence(adversarial_pkg)
