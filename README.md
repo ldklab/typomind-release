@@ -11,7 +11,7 @@ Tools used to implement various parts
 ## Setup
 One of the detection rule requires the "fasttext-vectors" word vector. Download it from `https://dl.fbaipublicfiles.com/fasttext/vectors-english/crawl-300d-2M-subword.zip` and use the `tools/fasttext.py` to convert it into the saved model. The saved model needs to be placed into `core/models`. 
 
-Alternatively you can download the required `fasttext-vectors.kv.vectors.npy` file from <TODO: link OSF> and save it in  `/core/models`
+Alternatively you can download the required `fasttext-vectors.kv.vectors.npy` file from [OSF](https://osf.io/nfkts/?view_only=b56d63194ef84ce4ba85ec00ee57cd05) and save it in  `/core/models`
 
 To install the required dependencies
 
